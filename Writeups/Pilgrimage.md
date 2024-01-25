@@ -1,7 +1,7 @@
-Pilgrimage
+# Pilgrimage
 Linux . Easy
-Enumeration
-Initial Nmap Scan
+## Enumeration
+### Initial Nmap Scan
 Our first step in probing the web application was an initial Nmap scan using the following command:
 nmap -sCV -p- {machine IP}
 This comprehensive scan returned a domain name for our target IP, which was subsequently added to the /etc/hosts file to enhance readability in further exploration.
