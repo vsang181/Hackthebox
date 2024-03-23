@@ -202,3 +202,11 @@ sudo su-
 Lastly, we used the 'su -' command to gain root access, marking the successful completion of our privilege escalation.
 
 ![image (3)](https://github.com/vsang181/Hackthebox/assets/28651683/cb3a1c70-bf82-477e-bb9b-61d130f7b470)
+
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
