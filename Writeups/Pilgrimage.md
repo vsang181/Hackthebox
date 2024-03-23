@@ -145,4 +145,12 @@ Concurrently, we started listening on the specified port via 'netcat'.
 
 An HTTP server was then started, and while still in SSH, the 'wget' command was used to retrieve the file into the specified folder.
 
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
+
 This process ultimately resulted in gaining a root shell, enabling access to the coveted root flag.
