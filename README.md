@@ -25,6 +25,5 @@ Throughout my career, I've dealt with a wide range of cybersecurity tasks, inclu
 I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
 
 - **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
-- **Email**: vsang181@gmail.com
 
 I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
