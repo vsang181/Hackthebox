@@ -85,3 +85,11 @@ This provides us with the root flag.
 
 ![image](https://github.com/vsang181/Hackthebox/assets/28651683/14bbf2d0-b339-4e57-b6fb-ab5da907c2a7)
 
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
+
