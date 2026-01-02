@@ -15,7 +15,7 @@ The learning process is one of the essential and most important components that 
   - [Learning Efficiency](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/Learning%20Efficiency.md)
   - [Learning Types](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/Learning%20Types.md)
   - [The Brain](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/The%20Brain.md)
-  - The Will
+  - [The Will](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/The%20Will.md)
   - The Goal
   - Decision Making
     
