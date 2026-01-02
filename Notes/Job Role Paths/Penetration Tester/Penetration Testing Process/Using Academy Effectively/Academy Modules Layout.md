@@ -38,7 +38,7 @@ From here, the process moves in only one direction.
 
 ### Foundation Modules Supporting This Stage
 
-1. Learning Process
+1. [Learning Process](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Learning%20Process)
 
 2. Linux Fundamentals
 
