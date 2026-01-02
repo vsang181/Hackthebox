@@ -11,7 +11,7 @@ The learning process is one of the essential and most important components that 
   - [Talent](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Mindset/Talent.md)
 
 2. Learning Dependencies
-  - Way Of Learning
+  - [Way Of Learning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/Way%20Of%20Learning.md)
   - Learning Efficiency
   - Learning Types
   - The Brain
