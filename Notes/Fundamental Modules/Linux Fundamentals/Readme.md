@@ -11,8 +11,8 @@ Treat this module as a baseline. The more time you spend practising these fundam
 ## Table of Contents
 
 1. Introduction
-  - Linux Structure
-  - Linux Distributions
+  - [Linux Structure](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction/Linux%20Structure.md)
+  - [Linux Distributions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction/Linux%20Distributions.md)
   - Introduction to Shell
     
 2. The Shell
