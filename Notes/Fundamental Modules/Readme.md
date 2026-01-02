@@ -1,6 +1,6 @@
 # Fundamental Modules
 
-## Tabel of contents
+## Table of Contents
 
 1. Learning Process
 
