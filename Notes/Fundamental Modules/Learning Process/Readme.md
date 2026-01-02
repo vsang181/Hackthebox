@@ -23,10 +23,10 @@ The learning process is one of the essential and most important components that 
   - [Documentation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Overview/Documentation.md)
   - [Organization](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Overview/Organization.md)
     
-4. The Process
-  - Focus
-  - Attention
-  - Comfort
-  - Obstacles
-  - Questioning
-  - Handling Frustration
+4. [The Process](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process)
+  - [Focus](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Focus.md)
+  - [Attention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Attention.md)
+  - [Comfort](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Comfort.md)
+  - [Obstacles](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Obstacles.md)
+  - [Questioning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Questioning.md)
+  - [Handling Frustration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/The%20Process/Handling%20Frustration.md)
