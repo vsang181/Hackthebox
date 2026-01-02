@@ -7,8 +7,8 @@ You will explore each stage of a penetration test in isolation and then see how 
 This module also introduces the preparation that happens before any technical work begins. You will look at pre-engagement activities, such as defining scope, agreeing rules of engagement, and understanding the conditions required to legally and professionally carry out a penetration test for a client. These steps are critical, as mistakes at this stage can invalidate an entire engagement, regardless of technical findings.
 ## Table of contents
 
-1. Using Academy Effectively
-  - Introduction to the Penetration Tester Path
+1. [Using Academy Effectively](https://github.com/vsang181/Hackthebox/tree/main/Notes/Job%20Role%20Paths/Penetration%20Tester/Penetration%20Testing%20Process/Using%20Academy%20Effectively)
+  - [Introduction to the Penetration Tester Path](https://github.com/vsang181/Hackthebox/blob/main/Notes/Job%20Role%20Paths/Penetration%20Tester/Penetration%20Testing%20Process/Using%20Academy%20Effectively/Introduction%20to%20the%20Penetration%20Tester%20Path.md)
   - Academy Modules Layout
 2. Background & Preparation
   - Penetration Testing Overview
