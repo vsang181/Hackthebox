@@ -4,8 +4,8 @@ The learning process is one of the essential and most important components that 
 
 ## Table of Contents
 
-1. Mindset
-  - Way of Thinking
+1. [Mindset](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Learning%20Process/Mindset)
+  - [Way of Thinking](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Mindset/Way%20of%20Thinking.md)
   - Think Outside the Box
   - Occam's Razor
   - Talent
