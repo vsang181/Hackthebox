@@ -4,7 +4,7 @@
 
 1. [Learning Process](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Learning%20Process)
 
-2. Linux Fundamentals
+2. [Linux Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals)
 
 3. Windows Fundamentals
 
