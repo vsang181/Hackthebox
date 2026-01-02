@@ -10,9 +10,9 @@ The learning process is one of the essential and most important components that 
   - [Occam's Razor](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Mindset/Occam's%20Razor.md)
   - [Talent](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Mindset/Talent.md)
 
-2. Learning Dependencies
+2. [Learning Dependencies](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies)
   - [Way Of Learning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/Way%20Of%20Learning.md)
-  - Learning Efficiency
+  - [Learning Efficiency](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Learning%20Process/Learning%20Dependencies/Learning%20Efficiency.md)
   - Learning Types
   - The Brain
   - The Will
