@@ -31,11 +31,11 @@ Treat this module as a baseline. The more time you spend practising these fundam
   - [Permission Management](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Permission%20Management.md)
     
 4. System Management
-  - User Management
-  - Package Management
-  - Service and Process Management
-  - Task Scheduling
-  - Network Services
+  - [User Management](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/System%20Management/User%20Management.md)
+  - [Package Management](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/System%20Management/Package%20Management.md)
+  - [Service and Process Management](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/System%20Management/Service%20and%20Process%20Management.md)
+  - [Task Scheduling](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/System%20Management/Task%20Scheduling.md)
+  - [Network Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/System%20Management/Network%20Services.md)
   - Working with Web Services
   - Backup and Restore
   - File System Management
