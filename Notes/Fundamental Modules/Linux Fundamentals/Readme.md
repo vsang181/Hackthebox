@@ -10,15 +10,15 @@ Treat this module as a baseline. The more time you spend practising these fundam
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction)
   - [Linux Structure](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction/Linux%20Structure.md)
   - [Linux Distributions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction/Linux%20Distributions.md)
-  - Introduction to Shell
+  - [Introduction to Shell](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Introduction/Introduction%20to%20Shell.md)
     
-2. The Shell
-  - Prompt Description
-  - Getting Help
-  - System Information
+2. [The Shell](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell)
+  - [Prompt Description](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell/Prompt%20Description.md)
+  - [Getting Help](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell/Getting%20Help.md)
+  - [System Information](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell/System%20Information.md)
 
 3. Workflow
   - Navigation
@@ -55,4 +55,6 @@ Treat this module as a baseline. The more time you spend practising these fundam
 
 8. Tips & Tricks
   - Shortcuts
+
+> [Cheat Sheet](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Cheat%20Sheet.md)
 
