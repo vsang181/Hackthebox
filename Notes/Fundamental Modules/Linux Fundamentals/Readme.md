@@ -20,15 +20,15 @@ Treat this module as a baseline. The more time you spend practising these fundam
   - [Getting Help](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell/Getting%20Help.md)
   - [System Information](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/The%20Shell/System%20Information.md)
 
-3. Workflow
-  - Navigation
-  - Working with Files and Directories
-  - Editing Files
-  - Find Files and Directories
-  - File Descriptors and Redirections
-  - Filter Contents
-  - Regular Expressions
-  - Permission Management
+3. [Workflow](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow)
+  - [Navigation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Navigation.md)
+  - [Working with Files and Directories](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Working%20with%20Files%20and%20Directories.md)
+  - [Editing Files](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Editing%20Files.md)
+  - [Find Files and Directories](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Find%20Files%20and%20Directories.md)
+  - [File Descriptors and Redirections](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/File%20Descriptors%20and%20Redirections.md)
+  - [Filter Contents](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Filter%20Contents.md)
+  - [Regular Expressions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Regular%20Expressions.md)
+  - [Permission Management](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Workflow/Permission%20Management.md)
     
 4. System Management
   - User Management
