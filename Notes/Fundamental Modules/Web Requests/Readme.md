@@ -6,14 +6,14 @@ Before you think about vulnerabilities, exploits, or tools, you need to understa
 
 ## Table of Contents
 
-1. HTTP Fundamentals
-  - HyperText Transfer Protocol (HTTP)
-  - Hypertext Transfer Protocol Secure (HTTPS)
-  - HTTP Requests and Responses
-  - HTTP Headers
+1. [HTTP Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Fundamentals)
+  - [HyperText Transfer Protocol (HTTP)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Fundamentals/HyperText%20Transfer%20Protocol%20(HTTP).md)
+  - [Hypertext Transfer Protocol Secure (HTTPS)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Fundamentals/Hypertext%20Transfer%20Protocol%20Secure%20(HTTPS).md)
+  - [HTTP Requests and Responses](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Fundamentals/HTTP%20Requests%20and%20Responses.md)
+  - [HTTP Headers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Fundamentals/HTTP%20Headers.md)
 
-2. HTTP Methods
-  - HTTP Methods and Codes
-  - GET
-  - POST
-  - CRUD API
+2. [HTTP Methods](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Methods)
+  - [HTTP Methods and Codes](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Methods/HTTP%20Methods%20and%20Codes.md)
+  - [GET](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Methods/GET.md)
+  - [POST](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Methods/POST.md)
+  - [CRUD API](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Requests/HTTP%20Methods/CRUD%20API.md)
