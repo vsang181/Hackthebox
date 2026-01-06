@@ -6,7 +6,7 @@
 
 2. [Linux Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals)
 
-3. Windows Fundamentals
+3. [Windows Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Windows%20Fundamentals)
 
 4. Introduction to Networking
 
