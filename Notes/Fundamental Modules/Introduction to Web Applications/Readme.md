@@ -14,11 +14,11 @@ As you move through this module, you will come across example commands, command 
   - [Cascading Style Sheets (CSS)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components/Cascading%20Style%20Sheets%20(CSS).md)
   - [JavaScript](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components/JavaScript.md)
 
-3. Front End Vulnerabilities
-  - Sensitive Data Exposure
-  - HTML Injection
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
+3. [Front End Vulnerabilities](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Vulnerabilities)
+  - [Sensitive Data Exposure](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Vulnerabilities/Sensitive%20Data%20Exposure.md)
+  - [HTML Injection](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Vulnerabilities/HTML%20Injection.md)
+  - [Cross-Site Scripting (XSS)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Vulnerabilities/Cross-Site%20Scripting%20(XSS).md)
+  - [Cross-Site Request Forgery (CSRF)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Vulnerabilities/Cross-Site%20Request%20Forgery%20(CSRF).md)
 
 4. Back End Components
   - Back End Servers
