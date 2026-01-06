@@ -14,9 +14,9 @@ In this module, you focus on the **core building blocks** of the Windows operati
   - Introduction to Windows
 
 2. Core of the Operating System
-   - Operating System Structure
-   - File System
-   - NTFS vs. Share Permissions
+  - Operating System Structure
+  - File System
+  - NTFS vs. Share Permissions
 
 3. Working with Services & Processes
   - Windows Services & Processes
