@@ -9,10 +9,10 @@ As you move through this module, you will come across example commands, command 
   - [Web Application Layout](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Introduction%20to%20Web%20Applications/Web%20Application%20Layout.md)
   - [Front End vs. Back End](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Introduction%20to%20Web%20Applications/Front%20End%20vs.%20Back%20End.md)
 
-2. Front End Components
-  - HTML
-  - Cascading Style Sheets (CSS)
-  - JavaScript
+2. [Front End Components](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components)
+  - [HTML](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components/HTML.md)
+  - [Cascading Style Sheets (CSS)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components/Cascading%20Style%20Sheets%20(CSS).md)
+  - [JavaScript](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications/Front%20End%20Components/JavaScript.md)
 
 3. Front End Vulnerabilities
   - Sensitive Data Exposure
