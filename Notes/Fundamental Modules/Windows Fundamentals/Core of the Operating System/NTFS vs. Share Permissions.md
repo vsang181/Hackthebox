@@ -1,10 +1,10 @@
-# NTFS vs Share Permissions (Windows)
+# NTFS vs Share Permissions
 
-Windows dominates corporate environments, which is why it is such a high-value target for attackers. Malware authors follow impact, not ideology. If software can run on an operating system, malicious software can be written for it. Windows is no exception, and the idea that any OS is “immune” is simply incorrect 
+Windows dominates desktop operating systems globally, which is exactly why it attracts so much attention from malware authors. From an attacker’s point of view, it is simply the highest-value target. The idea that any operating system is inherently immune to malware is a misconception. If software can be written for an operating system, malicious software can be written for it as well 
 
-As you assess Windows systems, you will repeatedly encounter **network shares**. Many real-world compromises spread laterally through **over-permissive SMB shares**, misconfigured permissions, or legacy protocols such as **SMBv1**, which is still exploited via vulnerabilities like **EternalBlue** on unpatched systems.
+A large number of real-world compromises spread through **network shares** that are misconfigured or too permissive. Even today, unpatched systems running **SMBv1** can still be exploited using vulnerabilities such as **EternalBlue**, often leading directly to ransomware incidents.
 
-Your goal here is to clearly understand **how NTFS permissions and share permissions differ, how they interact, and how they are abused**.
+Your goal here is to clearly understand how **SMB, share permissions, and NTFS permissions** work together, because this interaction is a frequent source of both security failures and privilege escalation opportunities.
 
 ---
 
@@ -16,84 +16,86 @@ Windows uses the **Server Message Block (SMB)** protocol to share resources such
 * Folders
 * Printers
 
-SMB is everywhere: small offices, large enterprises, and domain environments all rely on it.
+You will encounter SMB in almost every enterprise environment, regardless of size.
 
-Think in client–server terms:
+You should think of SMB in client–server terms:
 
-* A **client** requests access to a resource
-* A **server** responds and enforces permissions
-* Authentication happens locally (workgroup) or centrally (domain / Active Directory)
+* A **client** sends a request
+* A **server** processes that request
+* The server enforces permissions on the requested resource
 
-When you connect to a share, **two permission layers apply at the same time**.
+Whenever you access a shared folder over the network, **two different permission systems are evaluated**.
 
 ---
 
 ## Share Permissions vs NTFS Permissions
 
-These two permission sets are often confused. They are **not the same**, even though they usually apply to the same resource.
+These two permission sets are often mistaken for being the same. They are not. They frequently apply to the same resource, but they serve different purposes and operate at different layers.
 
-### Share Permissions (SMB Layer)
+---
+
+## Share Permissions (SMB Layer)
 
 Share permissions control **remote access over the network**.
 
 | Permission   | What it Allows                                   |
 | ------------ | ------------------------------------------------ |
 | Full Control | Read, write, delete, and change NTFS permissions |
-| Change       | Read, write, add, and delete files               |
-| Read         | View files and folders only                      |
+| Change       | Read, add, edit, and delete files and folders    |
+| Read         | View file and folder contents only               |
 
-Share permissions are **coarse-grained**. They are meant to provide simple control at the network boundary.
-
----
-
-### NTFS Basic Permissions (File System Layer)
-
-NTFS permissions apply **directly on the file system**, regardless of whether access is local or remote.
-
-| Permission           | What it Allows                      |
-| -------------------- | ----------------------------------- |
-| Full Control         | Full access plus permission changes |
-| Modify               | Read, write, add, and delete        |
-| Read & Execute       | Read files and run executables      |
-| List Folder Contents | View folder contents                |
-| Read                 | Read file contents                  |
-| Write                | Write data and create files         |
-| Special Permissions  | Advanced granular control           |
-
-NTFS permissions are **far more granular** than share permissions.
+Share permissions are **coarse-grained** and are intended to act as a first line of control at the network boundary.
 
 ---
 
-### NTFS Special Permissions (Important for Abuse)
+## NTFS Basic Permissions (File System Layer)
 
-Special permissions are where things get interesting during assessments.
+NTFS permissions apply **directly to the file system**, whether access is local or remote.
+
+| Permission           | What it Allows                                |
+| -------------------- | --------------------------------------------- |
+| Full Control         | Complete access, including permission changes |
+| Modify               | Read, write, add, and delete                  |
+| Read & Execute       | Read file contents and run executables        |
+| List Folder Contents | View files and subfolders                     |
+| Read                 | Read file contents                            |
+| Write                | Create and modify files                       |
+| Special Permissions  | Advanced granular controls                    |
+
+NTFS permissions are far more detailed and powerful than share permissions.
+
+---
+
+## NTFS Special Permissions (Where Abuse Happens)
+
+Special permissions are particularly important during assessments.
 
 Some high-impact examples:
 
 * **Traverse folder / execute file**
-  Access files via full path even if directory listing is denied
+  Allows access to files via a full path, even when directory listing is denied.
 
 * **Create files / write data**
-  Create or modify files (useful for dropping payloads)
+  Enables dropping payloads or modifying configuration files.
 
-* **Delete / delete subfolders and files**
-  Remove content even without full control
+* **Delete subfolders and files**
+  Allows removal of content without full control.
 
 * **Change permissions / take ownership**
-  Often leads directly to privilege escalation
+  Often leads directly to privilege escalation.
 
-These permissions are frequently inherited and misunderstood.
+These permissions are frequently inherited and misunderstood by administrators.
 
 ---
 
-## How Permissions Are Evaluated
+## How Windows Evaluates Permissions
 
-When accessing a share **over the network**, Windows evaluates:
+When you access a share **over the network**, Windows evaluates permissions in this order:
 
 1. **Share permissions**
 2. **NTFS permissions**
 
-The **most restrictive result wins**.
+The **most restrictive result always wins**.
 
 Example:
 
@@ -101,25 +103,27 @@ Example:
 * NTFS permission: Full Control
 * **Effective access: Read**
 
-If either layer denies an action, the action fails.
+If either layer blocks an action, that action fails.
 
 ---
 
-## Local vs Remote Access (Critical Distinction)
+## Local Access vs Network Access (Critical Difference)
 
-* **Local access (console / RDP)**
+You must always distinguish between these two scenarios:
+
+* **Local access (console or RDP)**
   → Only **NTFS permissions** apply
 
-* **Remote access (SMB)**
-  → **Both NTFS and share permissions** apply
+* **Network access (SMB)**
+  → **Both share and NTFS permissions** apply
 
-This distinction explains many “why can I access this locally but not over the network?” scenarios.
+This explains why a user may be able to access a folder locally but not over the network.
 
 ---
 
-## Enumerating Shares from Linux
+## Enumerating SMB Shares from Linux
 
-From a Linux attack host, you will often use `smbclient`.
+From a Linux attack host, you will typically use `smbclient`.
 
 ### Listing Available Shares
 
@@ -127,10 +131,10 @@ From a Linux attack host, you will often use `smbclient`.
 smbclient -L SERVER_IP -U username
 ```
 
-This shows:
+This lists:
 
 * Default administrative shares (`C$`, `ADMIN$`)
-* Custom shares
+* Custom user-created shares
 * IPC endpoints
 
 ---
@@ -141,17 +145,17 @@ This shows:
 smbclient '\\SERVER_IP\Company Data' -U username
 ```
 
-If authentication and permissions are correct, you gain interactive access.
+If authentication and permissions are correct, you receive an interactive SMB shell.
 
-If access fails despite valid credentials, **check the firewall**.
+If this fails despite valid credentials, your next check should always be the firewall.
 
 ---
 
 ## Windows Defender Firewall and SMB
 
-Windows Defender Firewall commonly blocks SMB traffic when:
+Windows Defender Firewall commonly blocks SMB connections when:
 
-* The client is not in the same workgroup or domain
+* The client is not part of the same workgroup or domain
 * Required inbound rules are disabled
 * The active firewall profile is restrictive
 
@@ -161,25 +165,25 @@ Firewall profiles you must remember:
 * **Private**
 * **Domain**
 
-Best practice is to **enable specific SMB rules**, not disable the firewall entirely. Unfortunately, in real environments, firewalls are often turned off for convenience.
+Best practice is to enable **specific SMB rules**, not disable the firewall entirely. Unfortunately, in real environments, firewalls are often turned off for convenience.
 
 ---
 
 ## Workgroup vs Domain Authentication
 
-This matters when authenticating to SMB.
+Authentication behaviour depends on where the account exists.
 
 * **Workgroup**
 
   * Authentication uses the local **SAM database**
-  * Accounts exist only on that system
+  * Accounts exist only on that single system
 
 * **Domain**
 
   * Authentication uses **Active Directory**
   * Centralised identity and access control
 
-Always ask yourself: *Where does this account live?*
+Before attempting authentication, always ask yourself: *Where does this account live?*
 
 ---
 
@@ -191,19 +195,19 @@ Once permissions allow access, you can mount the share.
 sudo mount -t cifs -o username=user,password=pass //TARGET_IP/"Company Data" /mnt/share
 ```
 
-If this fails and syntax is correct, install CIFS support:
+If this fails and your syntax is correct, install CIFS support:
 
 ```text
 sudo apt-get install cifs-utils
 ```
 
-Mounted shares make data exfiltration, file analysis, and persistence much easier.
+Mounted shares make analysis, persistence, and data exfiltration much easier.
 
 ---
 
-## Built-in Windows Tools for Share Visibility
+## Built-in Windows Visibility Tools
 
-Windows provides excellent native visibility if you know where to look.
+Windows provides strong native tooling to monitor shared resources.
 
 ### Viewing Shares
 
@@ -211,62 +215,62 @@ Windows provides excellent native visibility if you know where to look.
 net share
 ```
 
-You will always see:
+You will always see default administrative shares such as:
 
-* `C$` → Entire system drive
-* `ADMIN$` → Windows directory
-* `IPC$` → Inter-process communication
+* `C$` – entire system drive
+* `ADMIN$` – Windows directory
+* `IPC$` – inter-process communication
 
-These default shares exist on **every Windows system**.
+These exist on **every Windows system** by default.
 
 ---
 
 ### Computer Management
 
-You can also inspect:
+This interface allows you to inspect:
 
-* Shares
-* Active sessions
+* Shared folders
+* Active SMB sessions
 * Open files
 
-This is invaluable during incident response or post-exploitation cleanup.
+This is extremely useful during incident response or post-exploitation analysis.
 
 ---
 
 ### Event Viewer
 
-Windows logs almost everything.
+Windows logs nearly everything.
 
 Security logs can reveal:
 
-* Share access
+* Share access events
 * File operations
-* Authentication events
+* Authentication attempts
 
-Logs are often ignored by attackers and defenders alike, which makes them extremely valuable.
+Logs are often ignored, which makes them one of the most valuable forensic resources.
 
 ---
 
 ## Why This Matters in Real Attacks
 
-Misconfigured shares enable:
+Misconfigured shares are commonly abused for:
 
 * Lateral movement
 * Malware propagation
 * Data exfiltration
 * Ransomware deployment
 
-Administrators control permissions, which is why they are prime phishing targets. A single bad permission decision can expose an entire organisation.
+Administrators control permissions, which is why they are frequently targeted in spear-phishing campaigns. A single poor permission decision can expose an entire organisation.
 
 ---
 
-## Key Takeaways for You
+## Key Points to Remember
 
 * Share permissions and NTFS permissions are **not the same**
 * Both apply to SMB access
 * The most restrictive permission wins
-* NTFS permissions offer far more attack surface
+* NTFS permissions provide far more attack surface
 * Default administrative shares exist everywhere
 * Firewalls often block SMB before permissions do
 
-If you can confidently reason about **effective permissions**, Windows file sharing stops being confusing and starts becoming predictable—and predictable systems are much easier to break.
+Once you can reason confidently about **effective permissions**, Windows file sharing becomes predictable—and predictable systems are much easier to break and defend.
