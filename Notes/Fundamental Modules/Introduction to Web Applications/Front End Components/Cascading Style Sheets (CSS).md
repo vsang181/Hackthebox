@@ -212,16 +212,3 @@ You should never assume that:
 * Visual restrictions equal real restrictions
 
 CSS controls **appearance**, not **authority**.
-
----
-
-## Key Takeaways
-
-* CSS controls how HTML is displayed, not what is allowed
-* Visual hiding is not security
-* IDs and classes enable targeted styling and logic
-* JavaScript often manipulates CSS dynamically
-* Frameworks create predictable front-end structures
-* Many front-end vulnerabilities rely on CSS-driven assumptions
-
-Once you understand CSS as a **presentation layer**, not a security layer, you will start spotting front-end weaknesses that others routinely overlook.
