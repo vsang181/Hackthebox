@@ -45,7 +45,7 @@ Treat this module as a baseline. The more time you spend practising these fundam
   - [Network Configuration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Networking/Network%20Configuration.md)
   - [Remote Desktop Protocols in Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Networking/Remote%20Desktop%20Protocols%20in%20Linux.md)
 
-6. Linux Hardening
+6. [Linux Hardening](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Hardening)
   - [Linux Security](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Hardening/Linux%20Security.md)
   - [Firewall Setup](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Hardening/Firewall%20Setup.md)
   - [System Logs](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Fundamentals/Linux%20Hardening/System%20Logs.md)
