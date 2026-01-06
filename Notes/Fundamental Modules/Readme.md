@@ -12,7 +12,7 @@
 
 5. [Introduction to Web Applications](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Introduction%20to%20Web%20Applications)
 
-6. Web Requests
+6. [Web Requests](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Requests)
 
 7. JavaScript Deobfuscation
 
