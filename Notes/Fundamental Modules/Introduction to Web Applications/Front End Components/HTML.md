@@ -219,17 +219,3 @@ For example:
 * DOM-based XSS that never touches the server
 
 If you know how to navigate and reason about the DOM, front-end testing becomes far more systematic and far less guesswork.
-
----
-
-## Key Takeaways
-
-* HTML defines the structure of every web page
-* Browsers interpret HTML and build a DOM tree
-* HTML elements form a hierarchy, not a flat list
-* Attributes like `id` and `class` are critical for interaction
-* URL encoding affects how data is transmitted and parsed
-* The DOM is live and can be manipulated at runtime
-* Many front-end vulnerabilities rely on DOM behaviour
-
-If you get comfortable reading HTML and visualising the DOM tree in your head, you will be able to **spot client-side weaknesses quickly and reliably**, especially when combined with JavaScript analysis in the next section.
