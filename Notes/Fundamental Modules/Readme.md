@@ -14,7 +14,7 @@
 
 6. [Web Requests](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Requests)
 
-7. JavaScript Deobfuscation
+7. [JavaScript Deobfuscation](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/JavaScript%20Deobfuscation)
 
 8. Introduction to Active Directory
 
