@@ -16,7 +16,7 @@
 
 7. [JavaScript Deobfuscation](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/JavaScript%20Deobfuscation)
 
-8. Introduction to Active Directory
+8. [Introduction to Active Directory](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Introduction%20to%20Active%20Directory)
 
 9. Getting Started
 
