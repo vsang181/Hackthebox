@@ -18,11 +18,9 @@
 
 8. [Introduction to Active Directory](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Introduction%20to%20Active%20Directory)
 
-9. Getting Started
+9. Network Enumeration with Nmap
 
-10. Network Enumeration with Nmap
-
-11. Footprinting
+10. Footprinting
 
 12. Information Gathering - Web Edition
 
@@ -73,4 +71,3 @@
 35. Documentation & Reporting
 
 36. Attacking Enterprise Networks
-    35. 
