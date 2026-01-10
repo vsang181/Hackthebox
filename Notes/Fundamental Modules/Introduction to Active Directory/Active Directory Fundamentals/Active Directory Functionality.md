@@ -141,7 +141,7 @@ A **trust** allows authentication to flow between domains or forests. Trusts are
 
 A trust links the authentication systems of two domains.
 
-<img width="2576" height="1666" alt="trusts-diagram" src="https://github.com/user-attachments/assets/142b9692-bb20-4c33-9b3b-36dd8c007e71" />
+<img width="2576" height="1666" alt="trusts-diagram" src="https://github.com/user-attachments/assets/3a429d7f-21e3-4a6f-bda6-f094cadf877e" />
 
 ---
 
