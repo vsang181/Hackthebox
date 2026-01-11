@@ -20,7 +20,7 @@
 
 9. [Network Enumeration with Nmap](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Network%20Enumeration%20with%20Nmap)
 
-10. Footprinting
+10. [Footprinting](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Footprinting)
 
 12. Information Gathering - Web Edition
 
