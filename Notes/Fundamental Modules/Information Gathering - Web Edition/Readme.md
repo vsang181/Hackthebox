@@ -21,7 +21,7 @@ The goal is not “scan everything blindly,” but to build an accurate map of w
   - [WHOIS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/WHOIS/WHOIS.md)
   - [Utilising WHOIS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/WHOIS/Utilising%20WHOIS.md)
 
-3. DNS & Subdomains
+3. [DNS & Subdomains](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/DNS%20%26%20Subdomains)
   - [DNS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/DNS%20%26%20Subdomains/DNS.md)
   - [Digging DNS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/DNS%20%26%20Subdomains/Digging%20DNS.md)
   - [Subdomains](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition/DNS%20%26%20Subdomains/Subdomains.md)
