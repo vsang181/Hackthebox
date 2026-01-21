@@ -22,7 +22,7 @@
 
 10. [Footprinting](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Footprinting)
 
-12. Information Gathering - Web Edition
+12. [Information Gathering - Web Edition](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Information%20Gathering%20-%20Web%20Edition)
 
 13. OSINT: Corporate Recon
 
