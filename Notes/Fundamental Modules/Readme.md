@@ -26,9 +26,9 @@
 
 13. OSINT: Corporate Recon
 
-14. Vulnerability Assessment
+14. [Vulnerability Assessment](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Vulnerability%20Assessment)
 
-15. File Transfers
+15. [File Transfers](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/File%20Transfers)
 
 16. Shells & Payloads
 
