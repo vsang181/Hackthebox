@@ -14,15 +14,15 @@ By understanding and applying these techniques, we can remain effective even in 
 
 ## Table of Contents
 
-1. Introduction
-  - File Transfers
+1. [Introduction](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/File%20Transfers/Introduction)
+  - [File Transfers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/Introduction/File%20Transfers.md)
 
 2. File Transfer Methods
-  - Windows File Transfer Methods
-  - Linux File Transfer Methods
-  - Transferring Files with Code
-  - Miscellaneous File Transfer Methods
-  - Protected File Transfers
+  - [Windows File Transfer Methods](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/File%20Transfer%20Methods/Windows%20File%20Transfer%20Methods.md)
+  - [Linux File Transfer Methods](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/File%20Transfer%20Methods/Linux%20File%20Transfer%20Methods.md)
+  - [Transferring Files with Code](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/File%20Transfer%20Methods/Transferring%20Files%20with%20Code.md)
+  - [Miscellaneous File Transfer Methods](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/File%20Transfer%20Methods/Miscellaneous%20File%20Transfer%20Methods.md)
+  - [Protected File Transfers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Transfers/File%20Transfer%20Methods/Protected%20File%20Transfers.md)
   - Catching Files over HTTP/S
   - Living off The Land
 
