@@ -2,6 +2,8 @@
 
 A bind shell is a connection model in which the target system starts a listener on a specified port and waits for the operator's attack box to connect inbound. This contrasts with a reverse shell, where the direction of the initial connection is inverted. Understanding how bind shells function at a fundamental level is essential groundwork before working in environments where network controls, firewalls, and other defensive mechanisms complicate delivery.
 
+<img width="2101" height="1220" alt="image" src="https://github.com/user-attachments/assets/a9f7813c-a998-4482-8397-0b3ed0a2df47" />
+
 ## What Is a Bind Shell?
 
 In a bind shell scenario, the target acts as the server and the operator's attack box acts as the client. The operator connects directly to the target's IP address and open port to receive a shell session. Several practical constraints make bind shells less reliable than reverse shells in real engagements:
