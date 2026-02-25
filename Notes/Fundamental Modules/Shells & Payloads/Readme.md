@@ -6,32 +6,32 @@ You’ll learn how to align payloads with the environment: operating system and 
 
 ## Table of Contents
 
-1. Introduction
-  - Shells Jack Us In, Payloads Deliver Us Shells
-  - CAT5 Security's Engagement Preparation
+1. [Introduction](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Introduction)
+  - [Shells Jack Us In, Payloads Deliver Us Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Introduction/Shells%20Jack%20Us%20In%2C%20Payloads%20Deliver%20Us%20Shells.md)
+  - [CAT5 Security's Engagement Preparation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Introduction/CAT5%20Security's%20Engagement%20Preparation.md)
   
-2. Shell Basics
-  - Anatomy of a Shell
-  - Bind Shells
-  - Reverse Shells
+2. [Shell Basics](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Shell%20Basics)
+  - [Anatomy of a Shell](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Shell%20Basics/Anatomy%20of%20a%20Shell.md)
+  - [Bind Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Shell%20Basics/Bind%20Shells.md)
+  - [Reverse Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Shell%20Basics/Reverse%20Shells.md)
 
-3. Payloads
-  - Introduction to Payloads
-  - Automating Payloads & Delivery with Metasploit
-  - Crafting Payloads with MSFvenom
+3. [Payloads](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Payloads)
+  - [Introduction to Payloads](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Payloads/Introduction%20to%20Payloads.md)
+  - [Automating Payloads & Delivery with Metasploit](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Payloads/Automating%20Payloads%20%26%20Delivery%20with%20Metasploit.md)
+  - [Crafting Payloads with MSFvenom](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Payloads/Crafting%20Payloads%20with%20MSFvenom.md)
 
-4. Windows Shells
-  - Infiltrating Windows
+4. [Windows Shells](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Windows%20Shells)
+  - [Infiltrating Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Windows%20Shells/Infiltrating%20Windows.md)
   
-5. NIX Shells
-  - Infiltrating Unix/Linux
-  - Spawning Interactive Shells  
+5. [NIX Shells](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/NIX%20Shells)
+  - [Infiltrating Unix/Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/NIX%20Shells/Infiltrating%20Unix%5CLinux.md)
+  - [Spawning Interactive Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/NIX%20Shells/Spawning%20Interactive%20Shells.md)  
 
-6. Web Shells
-  - Introduction to Web Shells
-  - Laudanum, One Webshell to Rule Them All
-  - Antak Webshell
-  - PHP Web Shells
+6. [Web Shells](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Web%20Shells)
+  - [Introduction to Web Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Web%20Shells/Introduction%20to%20Web%20Shells.md)
+  - [Laudanum, One Webshell to Rule Them All](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Web%20Shells/Laudanum%2C%20One%20Webshell%20to%20Rule%20Them%20All.md)
+  - [Antak Webshell](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Web%20Shells/Antak%20Webshell.md)
+  - [PHP Web Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Web%20Shells/PHP%20Web%20Shells.md)
 
-7. Additional Considerations
-  - Detection & Prevention
+7. [Additional Considerations](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Additional%20Considerations)
+  - [Detection & Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads/Additional%20Considerations/Detection%20%26%20Prevention.md)
