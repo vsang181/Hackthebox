@@ -2,6 +2,8 @@
 
 Understanding the Windows authentication architecture is a prerequisite for credential-based attacks during a penetration test. Knowing which component holds credentials, in what format, and under what access conditions determines which attack techniques are applicable in a given scenario.
 
+<img width="2480" height="1424" alt="image" src="https://github.com/user-attachments/assets/76937bdc-0927-4a67-8e5f-17329b24bf54" />
+
 ## Authentication Flow Overview
 
 When a user logs into a Windows system interactively, the process involves a chain of coordinated components:
