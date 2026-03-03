@@ -63,6 +63,8 @@ reg save HKLM\SYSTEM system.bak
 
 ## Credential Manager
 
+<img width="749" height="716" alt="image" src="https://github.com/user-attachments/assets/edf465bf-ed06-493e-837e-a52e0ba31729" />
+
 Credential Manager is a built-in Windows vault that stores credentials used to access network resources, websites, and applications. Entries are stored per-user profile and encrypted at:
 
 ```
