@@ -32,7 +32,7 @@
 
 16. [Shells & Payloads](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Shells%20%26%20Payloads)
 
-17. Using the Metasploit-Framework
+17. [Using the Metasploit-Framework](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Using%20the%20Metasploit%20Framework)
 
 18. Password Attacks
 
