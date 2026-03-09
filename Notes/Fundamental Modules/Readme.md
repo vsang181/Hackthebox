@@ -34,7 +34,7 @@
 
 17. [Using the Metasploit-Framework](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Using%20the%20Metasploit%20Framework)
 
-18. Password Attacks
+18. [Password Attacks](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Password%20Attacks)
 
 19. Attacking Common Services
 
