@@ -6,7 +6,7 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 1. Introduction
 
-    - Interacting with Common Services 
+    - [Interacting with Common Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/Introduction/Interacting%20with%20Common%20Services.md) 
 
 2. Protocol Specific Attacks
 
