@@ -16,8 +16,8 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 3. FTP
 
-    - Attacking FTP
-    - Latest FTP Vulnerabilities
+    - [Attacking FTP](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/FTP/Attacking%20FTP.md)
+    - [Latest FTP Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/FTP/Latest%20FTP%20Vulnerabilities.md)
 
 4. SMB
 
