@@ -10,9 +10,9 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 2. Protocol Specific Attacks
 
-    - The Concept of Attacks
-    - Service Misconfigurations
-    - Finding Sensitive Information
+    - [The Concept of Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/Protocol%20Specific%20Attacks/The%20Concept%20of%20Attacks.md)
+    - [Service Misconfigurations](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/Protocol%20Specific%20Attacks/Service%20Misconfigurations.md)
+    - [Finding Sensitive Information](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/Protocol%20Specific%20Attacks/Finding%20Sensitive%20Information.md)
 
 3. FTP
 
