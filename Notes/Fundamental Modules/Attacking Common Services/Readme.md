@@ -21,8 +21,8 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 4. SMB
 
-    - Attacking SMB
-    - Latest SMB Vulnerabilities
+    - [Attacking SMB](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SMB/Attacking%20SMB.md)
+    - [Latest SMB Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SMB/Latest%20SMB%20Vulnerabilities.md)
 
 5. SQL Databases
 
