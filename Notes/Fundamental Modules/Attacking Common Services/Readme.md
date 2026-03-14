@@ -26,8 +26,8 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 5. SQL Databases
 
-    - Attacking SQL Databases
-    - Latest SQL Vulnerabilities
+    - [Attacking SQL Databases](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SQL%20Databases/Attacking%20SQL%20Databases.md)
+    - [Latest SQL Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SQL%20Databases/Latest%20SQL%20Vulnerabilities.md)
 
 6. RDP
 
