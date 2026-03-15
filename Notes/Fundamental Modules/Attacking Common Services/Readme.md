@@ -41,5 +41,5 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 8. SMTP
 
-    - Attacking Email Services
-    - Latest Email Service Vulnerabilities
+    - [Attacking Email Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SMTP/Attacking%20Email%20Services.md)
+    - [Latest Email Service Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/SMTP/Latest%20Email%20Service%20Vulnerabilities.md)
