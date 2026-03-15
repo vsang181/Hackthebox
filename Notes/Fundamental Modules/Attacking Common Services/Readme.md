@@ -31,8 +31,8 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 6. RDP
 
-    - Attacking RDP
-    - Latest RDP Vulnerabilities
+    - [Attacking RDP](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/RDP/Attacking%20RDP.md)
+    - [Latest RDP Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/RDP/Latest%20RDP%20Vulnerabilities.md)
 
 7. DNS
 
