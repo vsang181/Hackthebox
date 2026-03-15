@@ -36,8 +36,8 @@ Organisations rely on a common set of network services -- file sharing, remote a
 
 7. DNS
 
-    - Attacking DNS
-    - Latest DNS Vulnerabilities
+    - [Attacking DNS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/DNS/Attacking%20DNS.md)
+    - [Latest DNS Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services/DNS/Latest%20DNS%20Vulnerabilities.md)
 
 8. SMTP
 
