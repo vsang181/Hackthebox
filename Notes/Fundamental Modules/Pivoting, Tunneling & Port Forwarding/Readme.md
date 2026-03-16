@@ -6,8 +6,8 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 1. Introduction
 
-    - Introduction to Pivoting, Tunneling, and Port Forwarding
-    - The Networking Behind Pivoting
+    - [Introduction to Pivoting, Tunneling, and Port Forwarding](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Introduction/Introduction%20to%20Pivoting%2C%20Tunneling%2C%20and%20Port%20Forwarding.md)
+    - [The Networking Behind Pivoting](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Introduction/The%20Networking%20Behind%20Pivoting.md)
 
 2. Choosing The Dig Site & Starting our Tunnels
 
