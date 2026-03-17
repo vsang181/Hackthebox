@@ -1,4 +1,4 @@
-# Playing Pong with Socat
+# Socat Redirection with a Reverse Shell
 
 [Socat](https://linux.die.net/man/1/socat) is a bidirectional relay tool that creates a pipe between two independent network channels without requiring SSH or any existing tunneling infrastructure. In a pivoting context, it acts as a standalone redirector -- traffic arriving on a port gets forwarded to any destination, making it a lightweight alternative to SSH remote port forwarding when an SSH session is not available or practical.
 
