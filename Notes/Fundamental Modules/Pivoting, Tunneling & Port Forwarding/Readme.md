@@ -11,9 +11,9 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 2. Choosing The Dig Site & Starting our Tunnels
 
-    - Dynamic Port Forwarding with SSH and SOCKS Tunneling
-    - Remote/Reverse Port Forwarding with SSH
-    - Meterpreter Tunneling & Port Forwarding
+    - [Dynamic Port Forwarding with SSH and SOCKS Tunneling](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Choosing%20The%20Dig%20Site%20%26%20Starting%20our%20Tunnels/Dynamic%20Port%20Forwarding%20with%20SSH%20and%20SOCKS%20Tunneling.md)
+    - [Remote/Reverse Port Forwarding with SSH](https://github.com/vsang181/Hackthebox/blob/main/%22Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Choosing%20The%20Dig%20Site%20%26%20Starting%20our%20Tunnels/Remote%5C%5CReverse%20Port%20Forwarding%20with%20SSH.md%22)
+    - [Meterpreter Tunneling & Port Forwarding](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Choosing%20The%20Dig%20Site%20%26%20Starting%20our%20Tunnels/Meterpreter%20Tunneling%20%26%20Port%20Forwarding.md)
 
 3. Playing Pong with Socat
 
