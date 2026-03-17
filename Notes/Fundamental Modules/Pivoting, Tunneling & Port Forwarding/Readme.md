@@ -17,8 +17,8 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 3. Playing Pong with Socat
 
-    - Socat Redirection with a Reverse Shell
-    - Socat Redirection with a Bind Shell
+    - [Socat Redirection with a Reverse Shell](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Playing%20Pong%20with%20Socat/Socat%20Redirection%20with%20a%20Reverse%20Shell.md)
+    - [Socat Redirection with a Bind Shell](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Playing%20Pong%20with%20Socat/Socat%20Redirection%20with%20a%20Bind%20Shell.md)
 
 4. Pivoting Around Obstacles
 
