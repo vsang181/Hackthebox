@@ -35,7 +35,7 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 6. Double Pivots
 
-    - RDP and SOCKS Tunneling with SocksOverRDP
+    - [RDP and SOCKS Tunneling with SocksOverRDP](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Double%20Pivots/RDP%20and%20SOCKS%20Tunneling%20with%20SocksOverRDP.md)
       
 7. Additional Considerations
 
