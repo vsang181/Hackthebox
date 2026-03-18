@@ -22,10 +22,10 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 4. Pivoting Around Obstacles
 
-    - SSH for Windows: plink.exe
-    - SSH Pivoting with Sshuttle
-    - Web Server Pivoting with Rpivot
-    - Port Forwarding with Windows Netsh
+    - [SSH for Windows: plink.exe](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Pivoting%20Around%20Obstacles/SSH%20for%20Windows%3A%20plink.exe.md)
+    - [SSH Pivoting with Sshuttle](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Pivoting%20Around%20Obstacles/SSH%20Pivoting%20with%20Sshuttle.md)
+    - [Web Server Pivoting with Rpivot](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Pivoting%20Around%20Obstacles/Web%20Server%20Pivoting%20with%20Rpivot.md)
+    - [Port Forwarding with Windows Netsh](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Pivoting%20Around%20Obstacles/Port%20Forwarding%20with%20Windows%20Netsh.md)
 
 5. Branching Out Our Tunnels
 
