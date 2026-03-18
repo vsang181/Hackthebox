@@ -29,9 +29,9 @@ Pivoting, tunneling, and port forwarding are three closely related but distinct 
 
 5. Branching Out Our Tunnels
 
-    - DNS Tunneling with Dnscat2
-    - SOCKS5 Tunneling with Chisel
-    - ICMP Tunneling with SOCKS
+    - [DNS Tunneling with Dnscat2](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Branching%20Out%20Our%20Tunnels/DNS%20Tunneling%20with%20Dnscat2.md)
+    - [SOCKS5 Tunneling with Chisel](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Branching%20Out%20Our%20Tunnels/SOCKS5%20Tunneling%20with%20Chisel.md)
+    - [ICMP Tunneling with SOCKS](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding/Branching%20Out%20Our%20Tunnels/ICMP%20Tunneling%20with%20SOCKS.md)
 
 6. Double Pivots
 
