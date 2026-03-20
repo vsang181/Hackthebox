@@ -38,7 +38,7 @@
 
 19. [Attacking Common Services](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Attacking%20Common%20Services)
 
-20. Pivoting, Tunneling & Port Forwarding
+20. [Pivoting, Tunneling & Port Forwarding](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Pivoting%2C%20Tunneling%20%26%20Port%20Forwarding)
 
 21. Active Directory Enumeration & Attacks
 
