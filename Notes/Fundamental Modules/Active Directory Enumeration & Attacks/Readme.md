@@ -6,9 +6,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 1. Setting The Stage
 
-    - Introduction to Active Directory Enumeration & Attacks
-    - Tools of the Trade
-    - Tools of the Trade
+    - [Introduction to Active Directory Enumeration & Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Setting%20The%20Stage/Introduction%20to%20Active%20Directory%20Enumeration%20%26%20Attacks.md)
+    - [Tools of the Trade](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Setting%20The%20Stage/Tools%20of%20the%20Trade.md)
 
 2. Initial Enumeration
 
