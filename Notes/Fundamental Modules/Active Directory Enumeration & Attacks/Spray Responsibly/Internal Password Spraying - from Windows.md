@@ -1,4 +1,4 @@
-## Internal Password Spraying from Windows
+# Internal Password Spraying from Windows
 
 From a domain-joined Windows host, [DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) is the primary tool for this attack. When authenticated to the domain, it automatically pulls the user list from Active Directory, reads the password policy, and removes any accounts within one attempt of lockout before spraying begins.
 
