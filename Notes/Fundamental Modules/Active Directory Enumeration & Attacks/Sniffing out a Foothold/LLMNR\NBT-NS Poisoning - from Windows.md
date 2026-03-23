@@ -1,4 +1,4 @@
-## LLMNR/NBT-NS Poisoning from a Windows Host
+# LLMNR/NBT-NS Poisoning from a Windows Host
 
 This section covers running LLMNR and NBT-NS poisoning attacks from a Windows machine using [Inveigh](https://github.com/Kevin-Robertson/Inveigh), the Windows equivalent of Responder.
 
