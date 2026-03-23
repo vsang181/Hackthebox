@@ -1,4 +1,4 @@
-## Enumerating and Retrieving Password Policies
+# Enumerating and Retrieving Password Policies
 
 There are several ways to pull the domain password policy depending on whether you hold valid credentials and what your position is on the network. The methods below cover both Linux and Windows attack paths.
 
