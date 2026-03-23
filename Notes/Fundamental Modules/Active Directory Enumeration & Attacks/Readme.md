@@ -16,8 +16,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 3. Sniffing out a Foothold
 
-    - Initial Enumeration of the Domain
-    - LLMNR/NBT-NS Poisoning - from Windows
+    - [LLMNR/NBT-NS Poisoning - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Sniffing%20out%20a%20Foothold/LLMNR%5CNBT-NS%20Poisoning%20-%20from%20Linux.md)
+    - [LLMNR/NBT-NS Poisoning - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Sniffing%20out%20a%20Foothold/LLMNR%5CNBT-NS%20Poisoning%20-%20from%20Windows.md)
       
 4. Sighting In, Hunting for a User
 
