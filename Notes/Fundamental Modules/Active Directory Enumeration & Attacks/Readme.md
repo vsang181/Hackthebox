@@ -21,9 +21,9 @@ Active Directory is the backbone of identity and access management in the vast m
       
 4. Sighting In, Hunting for a User
 
-    - Password Spraying Overview
-    - Enumerating & Retrieving Password Policies
-    - Password Spraying - Making a Target User List
+    - [Password Spraying Overview](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Sighting%20In%2C%20Hunting%20for%20a%20User/Password%20Spraying%20Overview.md)
+    - [Enumerating & Retrieving Password Policies](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Sighting%20In%2C%20Hunting%20for%20a%20User/Enumerating%20%26%20Retrieving%20Password%20Policies.md)
+    - [Password Spraying - Making a Target User List](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Sighting%20In%2C%20Hunting%20for%20a%20User/Password%20Spraying%20-%20Making%20a%20Target%20User%20List.md)
 
 5. Spray Responsibly
 
