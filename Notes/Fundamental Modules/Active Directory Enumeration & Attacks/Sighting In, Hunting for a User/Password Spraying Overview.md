@@ -1,4 +1,4 @@
-## Password Spraying Overview
+# Password Spraying Overview
 
 Password spraying is an attack where a single common password is attempted against a large list of usernames or email addresses to gain access to an exposed service. Usernames are typically gathered during the OSINT phase or initial enumeration. Unlike brute forcing, which hammers one account with many passwords, spraying spreads attempts across many accounts with very few passwords, making it harder to trigger lockout policies.
 
