@@ -27,8 +27,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 5. Spray Responsibly
 
-    - Internal Password Spraying - from Linux
-    - Internal Password Spraying - from Windows
+    - [Internal Password Spraying - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Spray%20Responsibly/Internal%20Password%20Spraying%20-%20from%20Linux.md)
+    - [Internal Password Spraying - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Spray%20Responsibly/Internal%20Password%20Spraying%20-%20from%20Windows.md)
 
 6. Deeper Down the Rabbit Hole
 
