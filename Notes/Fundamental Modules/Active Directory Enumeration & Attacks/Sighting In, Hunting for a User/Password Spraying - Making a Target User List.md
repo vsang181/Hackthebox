@@ -1,4 +1,4 @@
-## Password Spraying - Building a Target User List
+# Password Spraying - Building a Target User List
 
 Before spraying, you need a valid list of domain users. The quality and completeness of that list directly affects your chances of success. Below are the main methods for building one, ordered from most reliable to least.
 
