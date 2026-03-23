@@ -11,8 +11,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 2. Initial Enumeration
 
-    - External Recon and Enumeration Principles
-    - Initial Enumeration of the Domain
+    - [External Recon and Enumeration Principles](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Initial%20Enumeration/External%20Recon%20and%20Enumeration%20Principles.md)
+    - [Initial Enumeration of the Domain](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Initial%20Enumeration/Initial%20Enumeration%20of%20the%20Domain.md)
 
 3. Sniffing out a Foothold
 
