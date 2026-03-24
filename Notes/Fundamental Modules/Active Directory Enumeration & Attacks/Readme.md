@@ -44,10 +44,10 @@ Active Directory is the backbone of identity and access management in the vast m
 
 8. An ACE in the Hole
 
-    - Access Control List (ACL) Abuse Primer
-    - ACL Enumeration
-    - ACL Abuse Tactics
-    - DCSync
+    - [Access Control List (ACL) Abuse Primer](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/An%20ACE%20in%20the%20Hole/Access%20Control%20List%20(ACL)%20Abuse%20Primer.md)
+    - [ACL Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/An%20ACE%20in%20the%20Hole/ACL%20Enumeration.md)
+    - [ACL Abuse Tactics](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/An%20ACE%20in%20the%20Hole/ACL%20Abuse%20Tactics.md)
+    - [DCSync](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/An%20ACE%20in%20the%20Hole/DCSync.md)
     
 9. Stacking The Deck
 
