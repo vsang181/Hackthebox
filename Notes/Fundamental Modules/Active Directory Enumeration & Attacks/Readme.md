@@ -39,8 +39,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 7. Cooking with Fire
 
-    - Kerberoasting - from Linux
-    - Kerberoasting - from Windows
+    - [Kerberoasting - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Cooking%20with%20Fire/Kerberoasting%20-%20from%20Linux.md)
+    - [Kerberoasting - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Cooking%20with%20Fire/Kerberoasting%20-%20from%20Windows.md)
 
 8. An ACE in the Hole
 
