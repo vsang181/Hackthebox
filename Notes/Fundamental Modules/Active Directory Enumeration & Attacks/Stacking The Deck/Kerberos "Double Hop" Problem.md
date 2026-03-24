@@ -1,4 +1,4 @@
-## Kerberos Double Hop Problem
+# Kerberos Double Hop Problem
 
 The double hop problem occurs when you authenticate to one remote host via WinRM and then try to reach a second resource (like a Domain Controller) from that session. Unlike NTLM-based auth where the password hash is cached in memory and can be forwarded, Kerberos tickets are resource-specific. The TGS (Ticket Granting Service) ticket grants access to the immediate target, but the TGT (Ticket Granting Ticket) needed to request access to further resources is never forwarded to the remote session.
 
