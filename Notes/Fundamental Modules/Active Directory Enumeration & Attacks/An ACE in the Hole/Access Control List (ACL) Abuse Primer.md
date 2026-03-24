@@ -1,4 +1,4 @@
-## Access Control List (ACL) Abuse Primer
+# Access Control List (ACL) Abuse Primer
 
 ACLs are lists that define who has access to which AD object and at what level. The individual settings within an ACL are called Access Control Entries (ACEs), and each ACE maps to a security principal (user, group, or process) and defines the rights granted to that principal. Every object in AD has an ACL, and most have multiple ACEs because multiple principals can interact with the same object.
 
