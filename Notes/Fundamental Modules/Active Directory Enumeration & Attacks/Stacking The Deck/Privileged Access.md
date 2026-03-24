@@ -1,4 +1,4 @@
-## Privileged Access
+# Privileged Access
 
 Once a foothold is established in a domain, lateral movement shifts from gaining initial access to expanding reach across hosts. Three primary remote access vectors exist beyond Pass-the-Hash: RDP, WinRM/PSRemoting, and MSSQL with sysadmin rights. Each can be enumerated through [BloodHound](https://github.com/BloodHoundAD/BloodHound) edges (`CanRDP`, `CanPSRemote`, `SQLAdmin`) or PowerView.
 
