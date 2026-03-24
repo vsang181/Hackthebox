@@ -51,10 +51,10 @@ Active Directory is the backbone of identity and access management in the vast m
     
 9. Stacking The Deck
 
-    - Privileged Access
-    - Kerberos "Double Hop" Problem
-    - Bleeding Edge Vulnerabilities
-    - Miscellaneous Misconfigurations
+    - [Privileged Access](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Stacking%20The%20Deck/Privileged%20Access.md)
+    - [Kerberos "Double Hop" Problem](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Stacking%20The%20Deck/Kerberos%20%22Double%20Hop%22%20Problem.md)
+    - [Bleeding Edge Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Stacking%20The%20Deck/Bleeding%20Edge%20Vulnerabilities.md)
+    - [Miscellaneous Misconfigurations](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Stacking%20The%20Deck/Miscellaneous%20Misconfigurations.md)
 
 10. Why So trusting
 
