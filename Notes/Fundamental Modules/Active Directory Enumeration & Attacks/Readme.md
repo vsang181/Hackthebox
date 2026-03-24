@@ -32,10 +32,10 @@ Active Directory is the backbone of identity and access management in the vast m
 
 6. Deeper Down the Rabbit Hole
 
-    - Enumerating Security Controls
-    - Credentialed Enumeration - from Linux
-    - Credentialed Enumeration - from Windows
-    - Living Off the Land
+    - [Enumerating Security Controls](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Deeper%20Down%20the%20Rabbit%20Hole/Enumerating%20Security%20Controls.md)
+    - [Credentialed Enumeration - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Deeper%20Down%20the%20Rabbit%20Hole/Credentialed%20Enumeration%20-%20from%20Linux.md)
+    - [Credentialed Enumeration - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Initial%20Enumeration/Credentialed%20Enumeration%20-%20from%20Windows.md)
+    - [Living Off the Land](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Initial%20Enumeration/Living%20Off%20the%20Land.md)
 
 7. Cooking with Fire
 
