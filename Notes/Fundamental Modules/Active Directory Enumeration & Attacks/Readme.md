@@ -64,8 +64,8 @@ Active Directory is the backbone of identity and access management in the vast m
 
 11. Breaking Down Boundaries
 
-    - Attacking Domain Trusts - Cross-Forest Trust Abuse - from Windows
-    - Attacking Domain Trusts - Cross-Forest Trust Abuse - from Linux
+    - [Attacking Domain Trusts - Cross-Forest Trust Abuse - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Breaking%20Down%20Boundaries/Attacking%20Domain%20Trusts%20-%20Cross-Forest%20Trust%20Abuse%20-%20from%20Windows.md)
+    - [Attacking Domain Trusts - Cross-Forest Trust Abuse - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Breaking%20Down%20Boundaries/Attacking%20Domain%20Trusts%20-%20Cross-Forest%20Trust%20Abuse%20-%20from%20Linux.md)
 
 12. Defensive Considerations
 
