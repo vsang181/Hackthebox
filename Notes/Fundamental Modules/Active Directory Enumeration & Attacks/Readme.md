@@ -58,9 +58,9 @@ Active Directory is the backbone of identity and access management in the vast m
 
 10. Why So trusting
 
-    - Domain Trusts Primer
-    - Attacking Domain Trusts - Child -> Parent Trusts - from Windows
-    - Attacking Domain Trusts - Child -> Parent Trusts - from Linux
+    - [Domain Trusts Primer](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Why%20So%20trusting/Domain%20Trusts%20Primer.md)
+    - [Attacking Domain Trusts - Child -> Parent Trusts - from Windows](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Why%20So%20trusting/Attacking%20Domain%20Trusts%20-%20Child%20-%3E%20Parent%20Trusts%20-%20from%20Windows.md)
+    - [Attacking Domain Trusts - Child -> Parent Trusts - from Linux](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Why%20So%20trusting/Attacking%20Domain%20Trusts%20-%20Child%20-%3E%20Parent%20Trusts%20-%20from%20Linux.md)
 
 11. Breaking Down Boundaries
 
