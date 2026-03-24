@@ -69,5 +69,5 @@ Active Directory is the backbone of identity and access management in the vast m
 
 12. Defensive Considerations
 
-    - Hardening Active Directory
-    - Additional AD Auditing Techniques
+    - [Hardening Active Directory](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Defensive%20Considerations/Hardening%20Active%20Directory.md)
+    - [Additional AD Auditing Techniques](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks/Defensive%20Considerations/Additional%20AD%20Auditing%20Techniques.md)
