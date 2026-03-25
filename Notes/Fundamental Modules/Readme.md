@@ -42,7 +42,7 @@
 
 21. [Active Directory Enumeration & Attacks](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks)
 
-22. Using Web Proxies
+22. [Using Web Proxies](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies)
 
 23. Attacking Web Applications with Ffuf
 
