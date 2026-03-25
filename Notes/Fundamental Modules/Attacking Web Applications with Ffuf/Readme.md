@@ -17,10 +17,10 @@ Ffuf (Fuzz Faster U Fool) is a fast web fuzzer written in Go, designed for web c
 
 3. Domian Fuzzing
 
-    - DNS Records
-    - Sub-domain Fuzzing
-    - Vhost Fuzzing
-    - Filtering Results
+    - [DNS Records](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Domian%20Fuzzing/DNS%20Records.md)
+    - [Sub-domain Fuzzing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Domian%20Fuzzing/Sub-domain%20Fuzzing.md)
+    - [Vhost Fuzzing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Domian%20Fuzzing/Vhost%20Fuzzing.md)
+    - [Filtering Results](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Domian%20Fuzzing/Filtering%20Results.md)
 
 4. Parameter Fuzzing
 
