@@ -6,8 +6,8 @@ Ffuf (Fuzz Faster U Fool) is a fast web fuzzer written in Go, designed for web c
 
 1. Introduction
 
-    - Introduction
-    - Web Fuzzing
+    - [Introduction](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Introduction/Introduction.md)
+    - [Web Fuzzing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Introduction/Web%20Fuzzing.md)
       
 2. Basic Fuzzing
 
