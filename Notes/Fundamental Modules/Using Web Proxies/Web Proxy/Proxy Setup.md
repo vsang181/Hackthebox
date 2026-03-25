@@ -1,4 +1,4 @@
-## Proxy Setup
+# Proxy Setup
 
 Getting a web proxy working with your browser comes down to two things: configuring the browser to route traffic through the proxy listener, and installing the proxy's CA certificate so HTTPS traffic decrypts cleanly without constant SSL warnings.
 
