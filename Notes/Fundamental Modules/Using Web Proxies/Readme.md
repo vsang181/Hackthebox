@@ -6,8 +6,8 @@ Burp Suite and OWASP ZAP are the two dominant web proxy tools in penetration tes
 
 1. Getting Started
 
-    - Intro to Web Proxies
-    - Setting Up
+    - [Intro to Web Proxies](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Getting%20Started/Intro%20to%20Web%20Proxies.md)
+    - [Setting Up](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Getting%20Started/Setting%20Up.md)
       
 2. Web Proxy
 
