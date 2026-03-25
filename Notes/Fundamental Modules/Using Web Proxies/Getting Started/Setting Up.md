@@ -1,4 +1,4 @@
-## Setting Up Burp Suite and ZAP
+# Setting Up Burp Suite and ZAP
 
 Both tools run on Windows, macOS, and Linux, and come pre-installed on penetration testing distributions like Kali and Parrot, as well as the HTB PwnBox. If you need to install them on a personal VM, the process is straightforward on either platform.
 
