@@ -21,8 +21,8 @@ Burp Suite and OWASP ZAP are the two dominant web proxy tools in penetration tes
 
 3. Web Fuzzer
 
-    - Burp Intruder
-    - ZAP Fuzzer
+    - [Burp Intruder](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Fuzzer/Burp%20Intruder.md)
+    - [ZAP Fuzzer](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Fuzzer/ZAP%20Fuzzer.md)
       
 4. Web Scanner
 
