@@ -11,13 +11,13 @@ Burp Suite and OWASP ZAP are the two dominant web proxy tools in penetration tes
       
 2. Web Proxy
 
-    - Proxy Setup
-    - Intercepting Web Requests
-    - Intercepting Responses
-    - Automatic Modification
-    - Repeating Requests
-    - Encoding/Decoding
-    - Proxying Tools
+    - [Proxy Setup](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Proxy%20Setup.md)
+    - [Intercepting Web Requests](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Intercepting%20Web%20Requests.md)
+    - [Intercepting Responses](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Intercepting%20Responses.md)
+    - [Automatic Modification](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Automatic%20Modification.md)
+    - [Repeating Requests](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Repeating%20Requests.md)
+    - [Encoding/Decoding](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Encoding%5CDecoding.md)
+    - [Proxying Tools](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Proxy/Proxying%20Tools.md)
 
 3. Web Fuzzer
 
