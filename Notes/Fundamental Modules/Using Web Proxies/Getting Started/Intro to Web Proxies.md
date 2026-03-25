@@ -1,4 +1,4 @@
-## Intro to Web Proxies
+# Intro to Web Proxies
 
 Web proxies sit between a browser or mobile application and a back-end server, capturing all traffic flowing in both directions. This makes them the single most important tool category in web application penetration testing, since virtually all modern apps rely on constant HTTP/HTTPS communication with back-end servers to function.
 
