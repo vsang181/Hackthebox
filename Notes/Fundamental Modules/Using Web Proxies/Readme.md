@@ -26,6 +26,6 @@ Burp Suite and OWASP ZAP are the two dominant web proxy tools in penetration tes
       
 4. Web Scanner
 
-    - Burp Scanner
-    - ZAP Scanner
-    - Extensions
+    - [Burp Scanner](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Scanner/Burp%20Scanner.md)
+    - [ZAP Scanner](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Scanner/ZAP%20Scanner.md)
+    - [Extensions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies/Web%20Scanner/Extensions.md)
