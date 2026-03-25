@@ -24,6 +24,6 @@ Ffuf (Fuzz Faster U Fool) is a fast web fuzzer written in Go, designed for web c
 
 4. Parameter Fuzzing
 
-    - Parameter Fuzzing - GET
-    - Parameter Fuzzing - POST
-    - Value Fuzzing
+    - [Parameter Fuzzing - GET](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Parameter%20Fuzzing/Parameter%20Fuzzing%20-%20GET.md)
+    - [Parameter Fuzzing - POST](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Parameter%20Fuzzing/Parameter%20Fuzzing%20-%20POST.md)
+    - [Value Fuzzing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Web%20Applications%20with%20Ffuf/Parameter%20Fuzzing/Value%20Fuzzing.md)
