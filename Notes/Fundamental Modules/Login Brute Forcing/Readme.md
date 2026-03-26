@@ -23,8 +23,8 @@ Login brute forcing is the process of systematically testing large numbers of us
 
 4. Medus
 
-    - Medusa
-    - Web Services
+    - [Medusa](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Medus/Medusa.md)
+    - [Web Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Medus/Web%20Services.md)
 
 5. Custom Wordlists
 
