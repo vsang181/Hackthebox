@@ -44,7 +44,7 @@
 
 22. [Using Web Proxies](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Using%20Web%20Proxies)
 
-23. Attacking Web Applications with Ffuf
+23. [Attacking Web Applications with Ffuf](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Active%20Directory%20Enumeration%20%26%20Attacks)
 
 24. Login Brute Forcing
 
