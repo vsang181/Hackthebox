@@ -11,9 +11,9 @@ Login brute forcing is the process of systematically testing large numbers of us
 
 2. Brute Force Attacks
 
-    - Brute Force Attacks
-    - Dictionary Attacks
-    - Hybrid Attacks
+    - [Brute Force Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Brute%20Force%20Attacks/Brute%20Force%20Attacks.md)
+    - [Dictionary Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Brute%20Force%20Attacks/Dictionary%20Attacks.md)
+    - [Hybrid Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Brute%20Force%20Attacks/Hybrid%20Attacks.md)
 
 3. Hydra
 
