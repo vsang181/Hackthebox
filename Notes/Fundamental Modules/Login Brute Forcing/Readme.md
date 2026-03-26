@@ -6,8 +6,8 @@ Login brute forcing is the process of systematically testing large numbers of us
 
 1. Introduction
 
-    - Introduction
-    - Password Security Fundamentals
+    - [Introduction](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Introduction/Introduction.md)
+    - [Password Security Fundamentals](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Introduction/Password%20Security%20Fundamentals.md)
 
 2. Brite Force Attacks
 
