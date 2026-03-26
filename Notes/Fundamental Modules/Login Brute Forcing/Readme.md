@@ -17,9 +17,9 @@ Login brute forcing is the process of systematically testing large numbers of us
 
 3. Hydra
 
-    - Hydra
-    - Basic HTTP Authetication
-    - Login forms
+    - [Hydra](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Hydra/Hydra.md)
+    - [Basic HTTP Authetication](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Hydra/Basic%20HTTP%20Authentication.md)
+    - [Login forms](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Hydra/Login%20Forms.md)
 
 4. Medus
 
