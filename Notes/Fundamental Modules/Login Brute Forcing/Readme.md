@@ -28,4 +28,5 @@ Login brute forcing is the process of systematically testing large numbers of us
 
 5. Custom Wordlists
 
-    - Custom Wordlists
+    - [Custom Wordlists
+](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing/Custom%20Wordlists/Custom%20Wordlists.md)
