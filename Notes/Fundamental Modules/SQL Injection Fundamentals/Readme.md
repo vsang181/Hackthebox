@@ -15,10 +15,10 @@ SQL injection (SQLi) is one of the oldest and most impactful vulnerabilities in 
 
 3. MySQL
 
-    - Intro to MySQL
-    - SQL Statements
-    - Query Results
-    - SQL Operatoers
+    - [Intro to MySQL](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/MySQL/Intro%20to%20MySQL.md)
+    - [SQL Statements](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/MySQL/SQL%20Statements.md)
+    - [Query Results](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/MySQL/Query%20Results.md)
+    - [SQL Operatoers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/MySQL/SQL%20Operators.md)
 
 4. SQL Injections
 
