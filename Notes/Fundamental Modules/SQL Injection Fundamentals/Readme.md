@@ -10,8 +10,8 @@ SQL injection (SQLi) is one of the oldest and most impactful vulnerabilities in 
   
 2. Database
 
-    - Intro to Databases
-    - Types of Databases
+    - [Intro to Databases](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/Database/Intro%20to%20Databases.md)
+    - [Types of Databases](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/Database/Types%20of%20Databases.md)
 
 3. MySQL
 
