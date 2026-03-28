@@ -22,11 +22,11 @@ SQL injection (SQLi) is one of the oldest and most impactful vulnerabilities in 
 
 4. SQL Injections
 
-    - Intro to SQL Injections
-    - Subverting Query Logic
-    - Using Comments
-    - Union Clause
-    - Union Injection
+    - [Intro to SQL Injections](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/SQL%20Injections/Intro%20to%20SQL%20Injections.md)
+    - [Subverting Query Logic](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/SQL%20Injections/Subverting%20Query%20Logic.md)
+    - [Using Comments](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/SQL%20Injections/Using%20Comments.md)
+    - [Union Clause](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/SQL%20Injections/Union%20Clause.md)
+    - [Union Injection](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/SQL%20Injections/Union%20Injection.md)
 
 5. Exploitation
 
