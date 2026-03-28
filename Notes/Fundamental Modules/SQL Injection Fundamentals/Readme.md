@@ -30,9 +30,9 @@ SQL injection (SQLi) is one of the oldest and most impactful vulnerabilities in 
 
 5. Exploitation
 
-    - Database Enumeration
-    - Reading Files
-    - Writing Files
+    - [Database Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/Exploitation/Database%20Enumeration.md)
+    - [Reading Files](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/Exploitation/Reading%20Files.md)
+    - [Writing Files](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals/Exploitation/Writing%20Files.md)
 
 6. Mitigations
 
