@@ -48,7 +48,7 @@
 
 24. [Login Brute Forcing](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Login%20Brute%20Forcing)
 
-25. SQL Injection Fundamentals
+25. [SQL Injection Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals)
 
 26. SQLMap Essentials
 
