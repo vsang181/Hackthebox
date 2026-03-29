@@ -18,8 +18,8 @@ SQLMap is an open-source penetration testing tool that automates the detection a
 
 3. Database Enumeration
 
-    - Data Enumeration
-    - Advanced Database Enumeration
+    - [Data Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Database%20Enumeration/Database%20Enumeration.md)
+    - [Advanced Database Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Database%20Enumeration/Advanced%20Database%20Enumeration.md)
 
 4. Advanced SQLMap Usage
 
