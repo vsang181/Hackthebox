@@ -23,5 +23,5 @@ SQLMap is an open-source penetration testing tool that automates the detection a
 
 4. Advanced SQLMap Usage
 
-    - Bypassing Web Application Peotections
-    - OS Exploitation
+    - [Bypassing Web Application Peotections](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Advanced%20SQLMap%20Usage/Bypassing%20Web%20Application%20Protections.md)
+    - [OS Exploitation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Advanced%20SQLMap%20Usage/OS%20Exploitation.md)
