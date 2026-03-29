@@ -1,4 +1,4 @@
-## SQLMap Overview
+# SQLMap Overview
 
 SQLMap is the most comprehensive automated SQL injection tool available, written in Python and actively maintained since 2006. It covers the full attack chain from detection through exploitation, supporting more database engines and injection techniques than any other tool in the same category.
 
