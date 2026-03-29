@@ -12,9 +12,9 @@ SQLMap is an open-source penetration testing tool that automates the detection a
 
 2. Building Attacks
 
-    - Running SQLMap on an HTTP Request
-    - Handling SQLMap Errors
-    - Attack Tuning
+    - [Running SQLMap on an HTTP Request](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Building%20Attacks/Running%20SQLMap%20on%20an%20HTTP%20Request.md)
+    - [Handling SQLMap Errors](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Building%20Attacks/Handling%20SQLMap%20Errors.md)
+    - [Attack Tuning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/SQLMap%20Essentials/Building%20Attacks/Attack%20Tuning.md)
 
 3. Database Enumeration
 
