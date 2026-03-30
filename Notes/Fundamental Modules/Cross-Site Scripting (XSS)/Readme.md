@@ -15,10 +15,10 @@ XSS is consistently ranked among the most prevalent web vulnerabilities. Where S
 
 2. XSS Attacks
 
-    - Defacing
-    - Phishing
-    - Session Hijacking
-
+    - [Defacing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Cross-Site%20Scripting%20(XSS)/XSS%20Attacks/Defacing.md)
+    - [Phishing](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Cross-Site%20Scripting%20(XSS)/XSS%20Attacks/Phishing.md)
+    - [Session Hijacking](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Cross-Site%20Scripting%20(XSS)/XSS%20Attacks/Session%20Hijacking.md)
+      
 3. XSS Prevention
 
     - XSS Prevention
