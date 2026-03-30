@@ -21,4 +21,4 @@ XSS is consistently ranked among the most prevalent web vulnerabilities. Where S
       
 3. XSS Prevention
 
-    - XSS Prevention
+    - [XSS Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Cross-Site%20Scripting%20(XSS)/XSS%20Prevention/XSS%20Prevention.md)
