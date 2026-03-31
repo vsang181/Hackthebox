@@ -10,9 +10,9 @@ File Inclusion is a vulnerability class that arises when a web application dynam
 
 2. File Disclosure
 
-    - Local File Inclusion (LFI)
-    - Basic Bypasses
-    - PHP Filters
+    - [Local File Inclusion (LFI)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/File%20Disclosure/Local%20File%20Inclusion%20(LFI).md)
+    - [Basic Bypasses](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/File%20Disclosure/Basic%20Bypasses.md)
+    - [PHP Filters](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/File%20Disclosure/PHP%20Filters.md)
 
 3. Remote Code Execution
 
