@@ -16,10 +16,10 @@ File Inclusion is a vulnerability class that arises when a web application dynam
 
 3. Remote Code Execution
 
-    - PHP Wrappers
-    - Remote File Inclusion (RFI)
-    - LFI and File Uploads
-    - Log Poisoning
+    - [PHP Wrappers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Remote%20Code%20Execution/PHP%20Wrappers.md)
+    - [Remote File Inclusion (RFI)](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Remote%20Code%20Execution/Remote%20File%20Inclusion%20(RFI).md)
+    - [LFI and File Uploads](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Remote%20Code%20Execution/LFI%20and%20File%20Uploads.md)
+    - [Log Poisoning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Remote%20Code%20Execution/Log%20Poisoning.md)
 
 4. Automation and Prevention
 
