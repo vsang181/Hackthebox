@@ -23,5 +23,5 @@ File Inclusion is a vulnerability class that arises when a web application dynam
 
 4. Automation and Prevention
 
-    - Automated Scanning
+    - [Automated Scanning](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Automation%20and%20Prevention/Automated%20Scanning.md)
     - File Inclusion Prevention
