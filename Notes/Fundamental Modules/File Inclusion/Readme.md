@@ -6,7 +6,7 @@ File Inclusion is a vulnerability class that arises when a web application dynam
 
 1. Introduction
 
-    - Intro to File Inclusions
+    - [Intro to File Inclusions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/File%20Inclusion/Introduction/Intro%20to%20File%20Inclusions.md)
 
 2. File Disclosure
 
