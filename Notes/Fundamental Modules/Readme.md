@@ -50,11 +50,11 @@
 
 25. [SQL Injection Fundamentals](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/SQL%20Injection%20Fundamentals)
 
-26. SQLMap Essentials
+26. [SQLMap Essentials](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/SQLMap%20Essentials)
 
-27. Cross-Site Scripting (XSS)
+27. [Cross-Site Scripting (XSS)](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Cross-Site%20Scripting%20(XSS))
 
-28. File Inclusion
+28. [File Inclusion](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/File%20Inclusion)
 
 29. Command Injections
 
