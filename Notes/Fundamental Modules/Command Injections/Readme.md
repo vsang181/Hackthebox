@@ -10,8 +10,8 @@ Command injection is one of the most critical and directly damaging vulnerabilit
 
 2. Basic Exploitation
 
-    - Absent validation
-    - Upload Exploitation
+    - [Absent validation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Basic%20Exploitation/Absent%20Validation.md)
+    - [Upload Exploitation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Basic%20Exploitation/Upload%20Exploitation.md)
 
 3. Bypassing Filters
 
