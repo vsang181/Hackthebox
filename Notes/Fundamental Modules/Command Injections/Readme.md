@@ -6,7 +6,7 @@ Command injection is one of the most critical and directly damaging vulnerabilit
 
 1. Introduction
 
-    - Intro to File Upload Attacks
+    - [Intro to File Upload Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Introduction/Intro%20to%20File%20Upload%20Attacks.md)
 
 2. Basic Exploitation
 
