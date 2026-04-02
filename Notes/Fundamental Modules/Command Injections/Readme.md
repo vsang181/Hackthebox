@@ -27,4 +27,4 @@ Command injection is one of the most critical and directly damaging vulnerabilit
       
 5. Prevention
 
-    - Preventing File Upload Vulnerabilities
+    - [Preventing File Upload Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Prevention/Preventing%20File%20Upload%20Vulnerabilities.md)
