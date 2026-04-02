@@ -22,9 +22,9 @@ Command injection is one of the most critical and directly damaging vulnerabilit
 
 4. Other Upload Attacks
 
-    - Limited File Uploads
-    - Other Upload Attacks
-
+    - [Limited File Uploads](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Other%20Upload%20Attacks/Limited%20File%20Uploads.md)
+    - [Other Upload Attacks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Other%20Upload%20Attacks/Other%20Upload%20Attacks.md)
+      
 5. Prevention
 
     - Preventing File Upload Vulnerabilities
