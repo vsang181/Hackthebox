@@ -15,10 +15,10 @@ Command injection is one of the most critical and directly damaging vulnerabilit
 
 3. Bypassing Filters
 
-    - Client-Side Validation
-    - Black Filters
-    - Whitelist Filters
-    - Type Filters
+    - [Client-Side Validation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Bypassing%20Filters/Client-Side%20Validation.md)
+    - [Black Filters](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Bypassing%20Filters/Blacklist%20Filters.md)
+    - [Whitelist Filters](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Bypassing%20Filters/Whitelist%20Filters.md)
+    - [Type Filters](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Bypassing%20Filters/Type%20Filters.md)
 
 4. Other Upload Attacks
 
