@@ -58,7 +58,7 @@
 
 29. [Command Injections](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Command%20Injections)
 
-30. Web Attacks
+30. [Web Attacks](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Attacks)
 
 31. Attacking Common Applications
 
