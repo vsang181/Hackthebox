@@ -15,8 +15,8 @@ Building a firm methodology for identifying and exploiting these applications me
 
 1. Setting the Stage
 
-    - Introduction to Attacking Common Applications
-    - Application Discovery & Enumeration
+    - [Introduction to Attacking Common Applications](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Setting%20the%20Stage/Introduction%20to%20Attacking%20Common%20Applications.md)
+    - [Application Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Setting%20the%20Stage/Application%20Discovery%20%26%20Enumeration.md)
 
 2. Content Management Systems (CMS)
 
