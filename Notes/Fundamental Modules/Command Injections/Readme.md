@@ -25,4 +25,4 @@ Command injection is a critical vulnerability class where user-supplied input is
 
 4. Prevention
 
-    - Command Injection Prevention
+    - [Command Injection Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Prevention/Command%20Injection%20Prevention.md)
