@@ -1,4 +1,4 @@
-## Bypassing Blacklisted Characters
+# Bypassing Blacklisted Characters
 
 The slash `/` and backslash `\` are among the most impactful characters to block because they are required to specify any file path. Blocking them appears to prevent reading files or navigating directories. In practice, the shell's variable expansion and text transformation capabilities give you multiple ways to produce any character you need without writing it literally.
 
