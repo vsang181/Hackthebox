@@ -10,9 +10,9 @@ Command injection is a critical vulnerability class where user-supplied input is
 
 2. Exploitation
 
-    - Detection
-    - Injecting Commands
-    - Other Injection Operators
+    - [Detection](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Exploitation/Detection.md)
+    - [Injecting Commands](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Exploitation/Injecting%20Commands.md)
+    - [Other Injection Operators](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Exploitation/Other%20Injection%20Operators.md)
 
 3. Filter Evasion
 
