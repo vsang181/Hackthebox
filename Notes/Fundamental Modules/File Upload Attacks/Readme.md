@@ -1,4 +1,4 @@
-# Command Injections
+# File Upload Attacks
 
 Command injection is one of the most critical and directly damaging vulnerability classes in web security. Unlike XSS, which targets users, or LFI, which reads files, command injection executes operating system commands directly on the server, giving an attacker the same level of access as the web server process itself.
 
