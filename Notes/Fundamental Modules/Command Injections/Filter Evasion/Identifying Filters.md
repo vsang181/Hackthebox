@@ -1,4 +1,4 @@
-## Identifying Filters and WAFs
+# Identifying Filters and WAFs
 
 Before attempting any bypass, the first task is characterising exactly what is being blocked. A filter that blocks specific characters requires different evasion than one that blocks command keywords, and a WAF has different behaviour from application-level PHP code. Identifying the filter type determines which bypass technique to reach for first.
 
