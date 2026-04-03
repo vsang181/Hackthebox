@@ -6,7 +6,7 @@ Command injection is a critical vulnerability class where user-supplied input is
 
 1. Introduction
 
-    - Intro of Command Injections
+    - [Intro of Command Injections](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Command%20Injections/Introduction/Intro%20to%20Command%20Injections.md)
 
 2. Exploitation
 
