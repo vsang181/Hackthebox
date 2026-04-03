@@ -17,13 +17,13 @@ This module covers three distinct web vulnerability classes that each exploit a 
 
 3. Insecure Direct Object References (IDOR)
 
-    - Intro to IDOR
-    - Identifying IDORs
-    - Mass IDOR Enumeration
-    - Bypassing Encoded Refrences
-    - IDOR in Insecure APIs
-    - CHaining IDOR Vulnerabilities
-    - IDOR Prevention
+    - [Intro to IDOR](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/Intro%20to%20IDOR.md)
+    - [Identifying IDORs](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/Identifying%20IDORs.md)
+    - [Mass IDOR Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/Mass%20IDOR%20Enumeration.md)
+    - [Bypassing Encoded Refrences](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/Bypassing%20Encoded%20References.md)
+    - [IDOR in Insecure APIs](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/IDOR%20in%20Insecure%20APIs.md)
+    - [Chaining IDOR Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/Chaining%20IDOR%20Vulnerabilities.md)
+    - [IDOR Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/Insecure%20Direct%20Object%20References%20(IDOR)/IDOR%20Prevention.md)
 
 4. XML External Entity (XXE) Injection
 
