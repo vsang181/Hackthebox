@@ -10,10 +10,10 @@ This module covers three distinct web vulnerability classes that each exploit a 
 
 2. HTTP Verb Tampering
 
-    - Introduction to HTTP Verb Tampering
-    - Bypassing Basic Authentication
-    - Bypassing Security Filters
-    - verb Tampering Prevention
+    - [Introduction to HTTP Verb Tampering](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/HTTP%20Verb%20Tampering/Intro%20to%20HTTP%20Verb%20Tampering.md)
+    - [Bypassing Basic Authentication](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/HTTP%20Verb%20Tampering/Bypassing%20Basic%20Authentication.md)
+    - [Bypassing Security Filters](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/HTTP%20Verb%20Tampering/Bypassing%20Security%20Filters.md)
+    - [Verb Tampering Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/HTTP%20Verb%20Tampering/Verb%20Tampering%20Prevention.md)
 
 3. Insecure Direct Object References (IDOR)
 
