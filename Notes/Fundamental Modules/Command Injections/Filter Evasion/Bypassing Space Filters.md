@@ -1,4 +1,4 @@
-## Bypassing Space Filters
+# Bypassing Space Filters
 
 Space characters are one of the most commonly blacklisted inputs on forms that expect structured data like IP addresses. Since a valid IP address never contains a space, any space in the input is a strong signal of an injection attempt. However, the shell has no strict requirement that arguments be separated by literal space characters, and several substitutes achieve the same result.
 
