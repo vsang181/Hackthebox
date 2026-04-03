@@ -56,7 +56,7 @@
 
 28. [File Inclusion](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/File%20Inclusion)
 
-29. Command Injections
+29. [Command Injections](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Command%20Injections)
 
 30. Web Attacks
 
