@@ -27,9 +27,8 @@ This module covers three distinct web vulnerability classes that each exploit a 
 
 4. XML External Entity (XXE) Injection
 
-    - Intro to XXE
-    - Local File Disclosure
-    - Advanced File Disclosure
-    - Advanced File Disclosure
-    - Blind Data Exfilteration
-    - XXE Prevention
+    - [Intro to XXE](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/XML%20External%20Entity%20(XXE)%20Injection/Intro%20to%20XXE.md)
+    - [Local File Disclosure](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/XML%20External%20Entity%20(XXE)%20Injection/Local%20File%20Disclosure.md)
+    - [Advanced File Disclosure](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/XML%20External%20Entity%20(XXE)%20Injection/Advanced%20File%20Disclosure.md)
+    - [Blind Data Exfilteration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/XML%20External%20Entity%20(XXE)%20Injection/Blind%20Data%20Exfiltration.md)
+    - [XXE Prevention](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Web%20Attacks/XML%20External%20Entity%20(XXE)%20Injection/XXE%20Prevention.md)
