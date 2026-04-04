@@ -1,12 +1,12 @@
 ## DnsAdmins
 
-The DnsAdmins group is a common and dangerous misconfiguration in Active Directory environments. Because the Windows DNS service supports custom plugin DLLs and runs as `NT AUTHORITY\SYSTEM` on Domain Controllers, members of this group can effectively execute arbitrary code as SYSTEM on the DC, which is equivalent to Domain Admin. [semperis](https://www.semperis.com/blog/dnsadmins-revisited/)
+The DnsAdmins group is a common and dangerous misconfiguration in Active Directory environments. Because the Windows DNS service supports custom plugin DLLs and runs as `NT AUTHORITY\SYSTEM` on Domain Controllers, members of this group can effectively execute arbitrary code as SYSTEM on the DC, which is equivalent to Domain Admin. 
 
 ***
 
 ## How the Attack Works
 
-The mechanism is a legitimate Windows DNS feature called `ServerLevelPluginDll`. The DNS management protocol (`dnscmd`) lets DnsAdmins members write an arbitrary DLL path into a registry key, and the DNS service loads that DLL on the next restart with no path validation: [phackt](https://phackt.com/dnsadmins-group-exploitation-write-permissions)
+The mechanism is a legitimate Windows DNS feature called `ServerLevelPluginDll`. The DNS management protocol (`dnscmd`) lets DnsAdmins members write an arbitrary DLL path into a registry key, and the DNS service loads that DLL on the next restart with no path validation: 
 
 ```
 DnsAdmins member runs dnscmd /config /serverlevelplugindll \\path\to\evil.dll
