@@ -53,8 +53,8 @@ Building a firm methodology for identifying and exploiting these applications me
 
 7. Thick Client Application
 
-    - Attacking Thick Client Applications
-    - Exploiting Web Vulnerabilities in Thick-Client Applications
+    - [Attacking Thick Client Applications](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Thick%20Client%20Application/Attacking%20Thick%20Client%20Applications.md)
+    - [Exploiting Web Vulnerabilities in Thick-Client Applications](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Thick%20Client%20Application/Exploiting%20Web%20Vulnerabilities%20in%20Thick-Client%20Applications.md)
 
 8. Miscellaneous Application
 
