@@ -57,9 +57,9 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 9. Dealing with End of Life Systems
 
-    - legacy Operating Systems
-    - Windows Server
-    - Windows Desktop Versions
+    - [Legacy Operating Systems](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Dealing%20with%20End%20of%20Life%20Systems/Legacy%20Operating%20Systems.md)
+    - [Windows Server](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Dealing%20with%20End%20of%20Life%20Systems/Windows%20Server.md)
+    - [Windows Desktop Versions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Dealing%20with%20End%20of%20Life%20Systems/Windows%20Desktop%20Versions.md)
 
 10. Closing Thoughts
 
