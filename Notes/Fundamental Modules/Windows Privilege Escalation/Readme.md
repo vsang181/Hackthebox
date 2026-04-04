@@ -47,7 +47,7 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 7. Restricted Environments
 
-    - Critix Breakout
+    - [Critix Breakout](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Restricted%20Environments/Critix%20Breakout.md)
 
 8. Additional techniques
 
