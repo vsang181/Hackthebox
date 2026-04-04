@@ -6,8 +6,8 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 1. Introduction
 
-    - Introduction to Windows Privilege Escalation
-    - Useful Tools
+    - [Introduction to Windows Privilege Escalation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Introduction/Introduction%20to%20Windows%20Privilege%20Escalation.md)
+    - [Useful Tools](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Introduction/Useful%20Tools.md)
 
 2. Getting the lay of teh Land
 
