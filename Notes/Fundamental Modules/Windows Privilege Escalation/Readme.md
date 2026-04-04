@@ -51,9 +51,9 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 8. Additional techniques
 
-    - Interacting with Users
-    - Pillaging
-    - Miscellaneous Techniques
+    - [Interacting with Users](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Additional%20techniques/Interacting%20with%20Users.md)
+    - [Pillaging](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Additional%20techniques/Pillaging.md)
+    - [Miscellaneous Techniques](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Additional%20techniques/Miscellaneous%20Techniques.md)
 
 9. Dealing with End of Life Systems
 
