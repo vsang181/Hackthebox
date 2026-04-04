@@ -6,7 +6,7 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 1. Introduction
 
-    - Introduction to Linux Privilege Escalation
+    - [Introduction to Linux Privilege Escalation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Introduction/Introduction%20to%20Linux%20Privilege%20Escalation.md)
 
 2. Information Gathering
 
