@@ -64,7 +64,7 @@
 
 32. [Linux Privilege Escalation](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation)
 
-33. Windows Privilege Escalation
+33. [Windows Privilege Escalation](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation)
 
 34. Introduction to Python 3
 
