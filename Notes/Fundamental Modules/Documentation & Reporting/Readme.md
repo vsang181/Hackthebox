@@ -6,20 +6,15 @@ Proper documentation is the foundation every other phase of a penetration test i
 
 1. Intro
 
-    - Introduction to Documentation & reporting
+    - [Introduction to Documentation & reporting](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Intro/Introduction%20to%20Documentation%20and%20Reporting.md)
 
 2. Preperation
 
-    - Notetaking & Organisation
-    - Types of Reports
-    - Components of a Report
+    - [Notetaking & Organisation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Preperation/Notetaking%20%26%20Organisation.md)
+    - [Types of Reports](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Preperation/Types%20of%20Reports.md)
+    - [Components of a Report](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Preperation/Components%20of%20a%20Report.md)
 
 3. Reporting
 
-    - How to Write up a Finding
-    - Reporting Tips and Tricks
-
-4. Next Steps
-
-    - Documentation & Reporting Practice Lab
-    - Beyond this Module - Documentation & Reporting
+    - [How to Write up a Finding](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Reporting/How%20to%20Write%20up%20a%20Finding.md)
+    - [Reporting Tips and Tricks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting/Reporting/Reporting%20Tips%20and%20Tricks.md)
