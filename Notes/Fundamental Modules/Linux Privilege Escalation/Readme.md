@@ -16,9 +16,9 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 3. Environment-based Privilege Escalation
 
-    - path Abuse
-    - Wildcard Abuse
-    - Escaping Restricted Shells
+    - [Path Abuse](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Environment-based%20Privilege%20Escalation/Path%20Abuse.md)
+    - [Wildcard Abuse](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Environment-based%20Privilege%20Escalation/Wildcard%20Abuse.md)
+    - [Escaping Restricted Shells](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Environment-based%20Privilege%20Escalation/Escaping%20Restricted%20Shells.md)
 
 4. Permissions-based Privilege Escalation
 
