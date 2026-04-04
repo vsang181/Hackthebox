@@ -29,13 +29,13 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 5. Service-based Privilege Escalation
 
-    - Vulnerable Services
-    - Cron Job Abuse
-    - Containers
-    - Docker
-    - Kubernetes
-    - Logrotate
-    - Miscellaneous techniques
+    - [Vulnerable Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Vulnerable%20Services.md)
+    - [Cron Job Abuse](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Cron%20Job%20Abuse.md)
+    - [Containers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Containers.md)
+    - [Docker](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Docker.md)
+    - [Kubernetes](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Kubernetes.md)
+    - [Logrotate](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Logrotate.md)
+    - [Miscellaneous techniques](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Miscellaneous%20Techniques.md)
 
 6. Linux Internals-based Privilege Escalation
 
