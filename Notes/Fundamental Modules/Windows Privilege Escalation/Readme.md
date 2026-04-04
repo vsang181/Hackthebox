@@ -33,11 +33,11 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 5. Attacking the OS
 
-    - User Account Control
-    - Weak Permissions
-    - Kernel Exploits
-    - Vulnerable Services
-    - DLL Injection
+    - [User Account Control](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Attacking%20the%20OS/User%20Account%20Control.md)
+    - [Weak Permissions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Attacking%20the%20OS/Weak%20Permissions.md)
+    - [Kernel Exploits](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Attacking%20the%20OS/Kernel%20Exploits.md)
+    - [Vulnerable Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Attacking%20the%20OS/Vulnerable%20Services.md)
+    - [DLL Injection](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Attacking%20the%20OS/DLL%20Injection.md)
 
 6. Credntial Theft
 
