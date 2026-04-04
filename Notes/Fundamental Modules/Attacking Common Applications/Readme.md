@@ -36,9 +36,9 @@ Building a firm methodology for identifying and exploiting these applications me
       
 4. Infrastructure/Network Monitoring Tools
 
-    - Splunk - Discovery & Enumeration
-    - Attacking Splunk
-    - PRTG Network Monitor
+    - [Splunk - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Infrastructure%5CNetwork%20Monitoring%20Tools/Splunk%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Splunk](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Infrastructure%5CNetwork%20Monitoring%20Tools/Attacking%20Splunk.md)
+    - [PRTG Network Monitor](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Infrastructure%5CNetwork%20Monitoring%20Tools/PRTG%20Network%20Monitor.md)
 
 5. Custtomer Service Mgmt & Configuration Management
 
