@@ -22,10 +22,10 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 4. Permissions-based Privilege Escalation
 
-    - Special Permissions
-    - Sudo Rights Abuse
-    - Privileged Groups
-    - Capabilities
+    - [Special Permissions](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Permissions-based%20Privilege%20Escalation/Special%20Permissions.md)
+    - [Sudo Rights Abuse](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Permissions-based%20Privilege%20Escalation/Sudo%20Rights%20Abuse.md)
+    - [Privileged Groups](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Permissions-based%20Privilege%20Escalation/Privileged%20Groups.md)
+    - [Capabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Permissions-based%20Privilege%20Escalation/Capabilities.md)
 
 5. Service-based Privilege Escalation
 
