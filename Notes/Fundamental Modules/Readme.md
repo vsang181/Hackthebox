@@ -60,7 +60,7 @@
 
 30. [Web Attacks](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Web%20Attacks)
 
-31. Attacking Common Applications
+31. [Attacking Common Applications](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications)
 
 32. Linux Privilege Escalation
 
