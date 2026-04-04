@@ -46,11 +46,11 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 7. Recent 0-Days
 
-    - Sudo
-    - Polkit
-    - Dirty Pipe
-    - Netfilter
+    - [Sudo](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Recent%200-Days/Sudo.md)
+    - [Polkit](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Recent%200-Days/Polkit.md)
+    - [Dirty Pipe](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Recent%200-Days/Dirty%20Pipe.md)
+    - [Netfilter](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Recent%200-Days/Netfilter.md)
 
 8. Hardening Considerations
 
-    - Linux Hardening
+    - [Linux Hardening](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Hardening%20Considerations/Linux%20Hardening.md)
