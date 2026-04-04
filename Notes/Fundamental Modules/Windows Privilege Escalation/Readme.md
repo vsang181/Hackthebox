@@ -17,10 +17,10 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 3. Windows User Privileges
 
-    - Windows Privileges Overview
-    - Selmpersonate and SeAssignPrimaryToken
-    - SeDebugprivilege
-    - SeTakeOwnershipPrivlege
+    - [Windows Privileges Overview](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20User%20Privileges/Windows%20Privileges%20Overview.md)
+    - [Selmpersonate and SeAssignPrimaryToken](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20User%20Privileges/SeImpersonate%20and%20SeAssignPrimaryToken.md)
+    - [SeDebugprivilege](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20User%20Privileges/SeDebugPrivilege.md)
+    - [SeTakeOwnershipPrivlege](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20User%20Privileges/SeTakeOwnershipPrivilege.md)
 
 4. Windows Group Privileges
 
