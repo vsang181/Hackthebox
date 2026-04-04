@@ -41,9 +41,9 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 6. Credntial Theft
 
-    - Credntial Hunting
-    - Other Files
-    - Further Credntial Theft
+    - [Credntial Hunting](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Credntial%20Theft/Credential%20Hunting.md)
+    - [Other Files](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Credntial%20Theft/Further%20Credential%20Theft.md)
+    - [Further Credntial Theft](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Credntial%20Theft/Other%20Files.md)
 
 7. Restricted Environments
 
