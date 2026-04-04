@@ -42,9 +42,9 @@ Building a firm methodology for identifying and exploiting these applications me
 
 5. Custtomer Service Mgmt & Configuration Management
 
-    - osTicket
-    - Gitlab - Discovery & Enumeration
-    - Attacking Gitlab
+    - [osTicket](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Custtomer%20Service%20Mgmt%20%26%20Configuration%20Management/Attacking%20GitLab.md)
+    - [Gitlab - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Custtomer%20Service%20Mgmt%20%26%20Configuration%20Management/Gitlab%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Gitlab(https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Custtomer%20Service%20Mgmt%20%26%20Configuration%20Management/Attacking%20GitLab.md)
 
 6. Common gateway Interface
 
