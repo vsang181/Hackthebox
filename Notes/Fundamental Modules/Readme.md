@@ -68,6 +68,6 @@
 
 34. Introduction to Python 3
 
-35. Documentation & Reporting
+35. [Documentation & Reporting](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Documentation%20%26%20Reporting)
 
 36. Attacking Enterprise Networks
