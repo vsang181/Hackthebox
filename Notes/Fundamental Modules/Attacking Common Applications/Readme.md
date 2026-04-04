@@ -29,11 +29,11 @@ Building a firm methodology for identifying and exploiting these applications me
 
 3. Servlet Containers/SOftware Development
 
-    - Tomcat- Discovery & Enumeration
-    - Attacking Tomcat
-    - Jenkins - Discovery & Enumeration
-    - Attacking Jenkins
-
+    - [Tomcat- Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Servlet%20Containers%5CSOftware%20Development/Tomcat%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Tomcat](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Servlet%20Containers%5CSOftware%20Development/Attacking%20Tomcat.md)
+    - [Jenkins - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Servlet%20Containers%5CSOftware%20Development/Jenkins%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Jenkins](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Servlet%20Containers%5CSOftware%20Development/Attacking%20Jenkins.md)
+      
 4. Infrastructure/Network Monitoring Tools
 
     - Splunk - Discovery & Enumeration
