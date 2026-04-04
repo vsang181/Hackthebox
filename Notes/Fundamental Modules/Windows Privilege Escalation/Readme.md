@@ -24,12 +24,12 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 4. Windows Group Privileges
 
-    - Windows Built-in Groups
-    - Evnet Log Readers
-    - DnsAdmins
-    - Hyper-V Administrators
-    - Print Operators
-    - Server Operators
+    - [Windows Built-in Groups](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/Windows%20Built-in%20Groups.md)
+    - [Evnet Log Readers](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/Event%20Log%20Readers.md)
+    - [DnsAdmins](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/DnsAdmins.md)
+    - [Hyper-V Administrators](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/Hyper-V%20Administrators.md)
+    - [Print Operators](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/Print%20Operators.md)
+    - [Server Operators](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Windows%20Group%20Privileges/Server%20Operators.md)
 
 5. Attacking the OS
 
