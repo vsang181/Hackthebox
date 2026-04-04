@@ -10,9 +10,9 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 2. Information Gathering
 
-    - Environment Enumeration
-    - Linux Services & Internals Enumeration
-    - Credential Hunting
+    - [Environment Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Information%20Gathering/Environment%20Enumeration.md)
+    - [Linux Services & Internals Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Information%20Gathering/Linux%20Services%20%26%20Internals%20Enumeration.md)
+    - [Credential Hunting](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Information%20Gathering/Credential%20Hunting.md)
 
 3. Environment-based Privilege Escalation
 
