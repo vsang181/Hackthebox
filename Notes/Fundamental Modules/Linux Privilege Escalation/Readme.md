@@ -39,10 +39,10 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
 6. Linux Internals-based Privilege Escalation
 
-    - Kernel Exploits
-    - Shared Libraries
-    - Shared Object Hijacking
-    - Python Library Hijacking
+    - [Kernel Exploits](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Linux%20Internals-based%20Privilege%20Escalation/Kernel%20Exploits.md)
+    - [Shared Libraries](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Linux%20Internals-based%20Privilege%20Escalation/Shared%20Libraries.md)
+    - [Shared Object Hijacking](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Linux%20Internals-based%20Privilege%20Escalation/Shared%20Object%20Hijacking.md)
+    - [Python Library Hijacking](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation/Linux%20Internals-based%20Privilege%20Escalation/Python%20Library%20Hijacking.md)
 
 7. Recent 0-Days
 
