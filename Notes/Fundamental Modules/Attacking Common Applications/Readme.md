@@ -58,14 +58,14 @@ Building a firm methodology for identifying and exploiting these applications me
 
 8. Miscellaneous Application
 
-    - ColdFusion - Discovery & Enumeration
-    - Attacking ColdFusion
-    - IIS Tilde Enumeration
-    - Attacking LDAP
-    - Web Mass Assignment Vulnerabilities
-    - Attacking Applications Connecting to Services
-    - Other Notable Applications
+    - [ColdFusion - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/ColdFusion%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking ColdFusion](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/Attacking%20ColdFusion.md)
+    - [IIS Tilde Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/IIS%20Tilde%20Enumeration.md)
+    - [Attacking LDAP](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/LDAP.md)
+    - [Web Mass Assignment Vulnerabilities](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/Web%20Mass%20Assignment%20Vulnerabilities.md)
+    - [Attacking Applications Connecting to Services](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/Attacking%20Applications%20Connecting%20to%20Services.md)
+    - [Other Notable Applications](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Miscellaneous%20Application/Other%20Notable%20Applications.md)
 
 9. Closing Out
 
-    - Application Hardening
+    - [Application Hardening](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Closing%20Out/Application%20Hardening.md)
