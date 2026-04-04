@@ -49,7 +49,7 @@ Building a firm methodology for identifying and exploiting these applications me
 6. Common gateway Interface
 
     - Attacking Tomcat CGI
-    - Attacking CGI Applications - Shellshock
+    - [Attacking CGI Applications - Shellshock](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Common%20gateway%20Interface/Attacking%20Common%20Gateway%20Interface%20(CGI)%20Applications%20-%20Shellshock.md)
 
 7. Thick Client Application
 
