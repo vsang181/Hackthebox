@@ -20,12 +20,12 @@ Building a firm methodology for identifying and exploiting these applications me
 
 2. Content Management Systems (CMS)
 
-    - WordPress - Discovery & Enumeration
-    - Attacking WordPress
-    - Joomla - Discovery & Enumeration
-    - Attacking Joomla
-    - Drupal - Discovery & Enumeration
-    - Attacking Drupal
+    - [WordPress - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/WordPress%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking WordPress](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/Attacking%20WordPress.md)
+    - [Joomla - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/Joomla%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Joomla](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/Attacking%20Joomla.md)
+    - [Drupal - Discovery & Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/Drupal%20-%20Discovery%20%26%20Enumeration.md)
+    - [Attacking Drupal](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications/Content%20Management%20Systems%20(CMS)/Attacking%20Drupal.md)
 
 3. Servlet Containers/SOftware Development
 
