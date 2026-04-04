@@ -31,7 +31,7 @@ Privilege escalation on Linux refers to the process of gaining a higher level of
 
     - Vulnerable Services
     - Cron Job Abuse
-    - LXD
+    - Containers
     - Docker
     - Kubernetes
     - Logrotate
