@@ -62,7 +62,7 @@
 
 31. [Attacking Common Applications](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Attacking%20Common%20Applications)
 
-32. Linux Privilege Escalation
+32. [Linux Privilege Escalation](https://github.com/vsang181/Hackthebox/tree/main/Notes/Fundamental%20Modules/Linux%20Privilege%20Escalation)
 
 33. Windows Privilege Escalation
 
