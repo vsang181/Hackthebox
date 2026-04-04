@@ -63,4 +63,4 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 10. Closing Thoughts
 
-    - Windows Hardening
+    - [Windows Hardening](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Closing%20Thoughts/Windows%20Hardening.md)
