@@ -11,9 +11,9 @@ Windows privilege escalation is the process of moving from an initial low-privil
 
 2. Getting the lay of teh Land
 
-    - Situational Awareness
-    - Initial Enumeration
-    - Communication with Process
+    - [Situational Awareness](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Getting%20the%20lay%20of%20teh%20Land/Situational%20Awareness.md)
+    - [Initial Enumeration](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Getting%20the%20lay%20of%20teh%20Land/Initial%20Enumeration.md)
+    - [Communication with Process](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Windows%20Privilege%20Escalation/Getting%20the%20lay%20of%20teh%20Land/Communication%20with%20Processes.md)
 
 3. Windows User Privileges
 
