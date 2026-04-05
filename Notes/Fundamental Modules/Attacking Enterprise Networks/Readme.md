@@ -11,10 +11,10 @@ Large and complex networks are a common reality during penetration testing asses
 
 2. External testing
 
-    - External Information Gathering
-    - Service Enumeration & Exploitation
-    - Web Enumeration & Exploitation
-    - Initial Access
+    - [External Information Gathering](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/External%20testing/External%20Information%20Gathering.md)
+    - [Service Enumeration & Exploitation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/External%20testing/Service%20Enumeration%20%26%20Exploitation.md)
+    - [Web Enumeration & Exploitation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/External%20testing/Web%20Enumeration%20%26%20Exploitation.md)
+    - [Initial Access](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/External%20testing/Initial%20Access.md)
 
 3. Internal Testing
 
