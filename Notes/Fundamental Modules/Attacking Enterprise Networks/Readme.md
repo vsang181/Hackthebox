@@ -6,8 +6,8 @@ Large and complex networks are a common reality during penetration testing asses
 
 1. Pre-Engagement
 
-    - Intro to Attacking Enterprise Networks
-    - Scenario & Kickoff
+    - [Intro to Attacking Enterprise Networks](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Pre-Engagement/Intro%20to%20Attacking%20Enterprise%20Networks.md)
+    - [Scenario & Kickoff](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Pre-Engagement/Scenario%20%26%20Kickoff.md)
 
 2. External testing
 
