@@ -24,9 +24,9 @@ Large and complex networks are a common reality during penetration testing asses
 
 4. Lateral Movement & Privilege Escalation
 
-    - Lateral Movement
-    - Active Directory Compromise
-    - Post-Exploitation
+    - [Lateral Movement](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Lateral%20Movement%20%26%20Privilege%20Escalation/Lateral%20Movement.md)
+    - [Active Directory Compromise](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Lateral%20Movement%20%26%20Privilege%20Escalation/Active%20Directory%20Compromise.md)
+    - [Post-Exploitation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Lateral%20Movement%20%26%20Privilege%20Escalation/Post-Exploitation.md)
 
 5. Wrapping Up
 
