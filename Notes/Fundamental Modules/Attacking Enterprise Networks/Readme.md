@@ -30,5 +30,5 @@ Large and complex networks are a common reality during penetration testing asses
 
 5. Wrapping Up
 
-    - Engagement Closeout
-    - Beyond this Module
+    - [Engagement Closeout](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Wrapping%20Up/Engagement%20Closeout.md)
+    - [Beyond this Module](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Wrapping%20Up/Beyond%20This%20Module.md)
