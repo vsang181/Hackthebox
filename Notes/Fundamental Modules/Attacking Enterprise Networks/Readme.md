@@ -18,9 +18,9 @@ Large and complex networks are a common reality during penetration testing asses
 
 3. Internal Testing
 
-    - Post-Exploitation Persistence
-    - Internasl Information Gathering
-    - Exploitation & Privilege Escalation
+    - [Post-Exploitation Persistence](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Internal%20Testing/Post-Exploitation%20Persistence.md)
+    - [Internasl Information Gathering](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Internal%20Testing/Internal%20Information%20Gathering.md)
+    - [Exploitation & Privilege Escalation](https://github.com/vsang181/Hackthebox/blob/main/Notes/Fundamental%20Modules/Attacking%20Enterprise%20Networks/Internal%20Testing/Exploitation%20%26%20Privilege%20Escalation.md)
 
 4. Lateral Movement & Privilege Escalation
 
