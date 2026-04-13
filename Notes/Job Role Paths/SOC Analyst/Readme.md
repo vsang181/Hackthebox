@@ -2,7 +2,7 @@
 
 The HTB Academy SOC Analyst Job Role Path is structured for information security newcomers who want to become professional SOC analysts. It walks you through every stage of security analysis from traffic inspection and SIEM monitoring all the way to DFIR activities and formal reporting, with heavy emphasis on hands-on exercises alongside the theory.
 
-# Table of Contents
+## Table of Contents
 
 1. Incident Handling Process
 
